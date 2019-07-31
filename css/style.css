@@ -128,7 +128,8 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #carouselText {
-        text-align: left;
+        font-size: 300%;
+        text-transform: uppercase;
     }
 
     #carouselText_Padding {
