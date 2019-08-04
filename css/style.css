@@ -93,6 +93,8 @@ h1, h2, h3, h4, h5, h6 {
         color: #dee2e6!important;
     }
 
+
+
 /*
 ================================
     NAVBAR
@@ -145,22 +147,24 @@ h1, h2, h3, h4, h5, h6 {
 ================================
 */
 
-    table {
-        margin: auto;
-        border-collapse: collapse;
-        width: 75%;
-    }
-
     th {
-        /* background-color: #BE1E2D; */
         color: #000000;
         text-align: center;
         border-bottom: 1pt solid #bcbec0;
     }
 
+    .table th{
+        vertical-align: middle;
+    }
+
+
     thead th {
         color: #ffffff;
         background-color: #BE1E2D;
+        border-bottom: hidden;
+    }
+
+    thead tr {
         border-bottom: hidden;
     }
 
