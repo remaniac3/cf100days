@@ -67,7 +67,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
 /*
 ================================
     FOOTER
@@ -157,9 +156,6 @@ h1, h2, h3, h4, h5, h6 {
         vertical-align: middle;
     }
 
-    .table td{
-        vertical-align: middle;
-    }
 
     thead th {
         color: #ffffff;
@@ -184,15 +180,6 @@ h1, h2, h3, h4, h5, h6 {
         display: table;
         margin: auto;
         width: 100%;
-    }
-
-    .table .date {
-        font-weight: 300;
-        font-size: 0.8em;
-    }
-
-    .table .day {
-        font-weight: 700;
     }
 
 
