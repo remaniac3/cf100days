@@ -7,36 +7,91 @@
 
     <meta property="og:url"                content="http://100days.comicfiesta.org/" />
     <meta property="og:type"               content="website" />
-    <meta property="og:description"        content="Comic Fiesta 100 Days Countdown is back this year with the theme of 'DETECTIVE NOIR'!" />
-    <meta property="og:image"              content="http://100days.comicfiesta.org/img/2019_meta_img.jpg" />
+    <meta property="og:description"        content="Comic Fiesta 100 Days Countdown is back this year with the theme of 'NUSANTARA ISEKAI'!" />
+    <meta property="og:image"              content="http://100days.comicfiesta.org/img/2022_meta_img.jpg" />
 
     <script src="js/jquery-3.3.1.slim.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> 
-    <link rel="stylesheet" type="text/css" href="css/style.css"> <!-- LOCAL -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
-    <title>100 Days Countdown / Comic Fiesta 2019</title>
+    <title>100 Days Countdown / Comic Fiesta 2022</title>
 </head>
 
 <body>
-    <nav class="navbar navbar-default navbar-dark bg-dark navbar-expand-md sticky-top"> <!---->
-        <a class="navbar-brand" href="index.html"><img src="img/logo_cf.png" alt="COMIC FIESTA" style="width: 100px; height: 60px;"></a>
+    <nav class="navbar navbar-default navbar-dark bg-dark navbar-expand-md sticky-top">
+        <a class="navbar-brand" href="./index.html"><img src="img/logo_cf.png" alt="COMIC FIESTA" style="width: 100px; height: 60px;"></a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="./index.html" alt="Home Page">HOME<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./mascots.html" alt="Comic Fiesta Mascots">MASCOTS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./rnr.html" alt="Rules and Regulations">RULES & REGULATIONS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./schedule.html" alt="100 Days Countdown Schedule">SCHEDULE</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" alt="100 Days Countdown Archive" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        ARCHIVE
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" alt="Year 2019" href="./2019/index.html" target="_blank" rel="noopener">2019</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
     </nav>
+
+    <div class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/2022_banner_home.jpg" class="d-block w-100" alt="Comic Fiesta 100 Days Countdown">
+                <div class="carousel-caption d-none d-md-block" id="carouselText_Padding">
+                    <h2 style="color:#BE1E2D">Comic Fiesta 100 Days Countdown</h2>
+                    <p style="color:#231f20; margin-bottom:0">Character Design by <span style="font-weight: 700"><b>Kazeo Yuurin</b></span></p>
+                  </div>
+            </div>
+        </div>
+    </div>
 
     <main role="main" class="container">
 
-        <div class="container" style="text-align: center;">
-            <h5 id="nameColour">More details coming soon!</h5>
+        <div class="container text-align-center" id="contPadUP">
+            <p>It has been decades since The Great War. In their victory, the immortal <b>Bunian</b> have used their control over sihir to reshape the world of <b>Nusara</b> into an ecological paradise. The <b>Hewani</b>, a collection of beast-like sentient races shaped by sihir, now live in sparse colonies across the <b>Bunian</b> civilization, their once-celebrated diversities now reduced to whichever use their <b>Bunian</b> rulers deem valuable. It is an unstable peace, and revolution is brewing.</p>
+        </div>
+
+        <div class="container text-align-center">
+            <h5 id="nameColour">How the story unfolds is entirely up to your imagination!</h5>
+        </div>
+
+        <div class="container text-align-center">
+            <p><b>Comic Fiesta 100 Days Countdown</b> (CF100Days) is a yearly event where hundreds of artists pool their talent each year, creating artworks based on our mascots; <b>Coffy</b>, <b>Tea</b>, <b>Yin Yong</b>, <b>Michael</b> and <b>Mi</b> every day for a 100 days as we count down to the most epic event of the year, <b>Comic Fiesta</b>!</p>
+
+            <p>If you submit <em>before</em> <strong>1st November 2022</strong>, you will stand the chance being selected as one of the 10 Committee Selection and receive an awesome <b>Comic Fiesta 2022 Goodie Bag!</b></p>
+        </div>
+
+        <div class="container text-align-center">
+            <h6 id="nameColour">*** Registration opens on 30 August 2022 at 9:00pm (GMT+8) ***</h6>
         </div>
 
         <br>
 
-        <div class="container" style="text-align: center;" id="contPadDOWN">
+        <div class="container text-align-center" id="contPadDOWN">
                 Kindly approach us if you have any questions about the 100 Days Countdown.
                 <br>
-                Email: <a href="mailto:art@comicfiesta.org?subject=CF2019 100 Days Countdown Enquiry">art@comicfiesta.org</a>
+                Email: <a href="mailto:art@comicfiesta.org?subject=CF2022 100 Days Countdown Enquiry">art@comicfiesta.org</a>
         </div>
     </main>
 

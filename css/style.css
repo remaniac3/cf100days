@@ -43,6 +43,10 @@ h1, h2, h3, h4, h5, h6 {
     padding: 1rem 3rem 1rem 3rem;
 }
 
+.text-align-center {
+    text-align: center;
+}
+
 #colpaddingEX {
     padding-left: 2em;
     padding-right: 2em;
@@ -223,29 +227,24 @@ h1, h2, h3, h4, h5, h6 {
 ================================
 */
 
-    #mascotTea a, a:hover {
+    #mascotTea {
         color: #BFD730;
-        text-decoration: none;
     }
 
-    #mascotMi a, a:hover {
+    #mascotMi {
         color: #00BFF3;
-        text-decoration: none;
     }
 
-    #mascotYinYong a, a:hover {
+    #mascotYinYong {
         color: #B41E8E;
-        text-decoration: none;
     }
 
-    #mascotMichael a, a:hover {
+    #mascotMichael {
         color: #FAA61A;
-        text-decoration: none;
     }
 
-    #mascotCoffy a, a:hover {
+    #mascotCoffy {
         color: #BE1E2D;
-        text-decoration: none;
     }
 
 

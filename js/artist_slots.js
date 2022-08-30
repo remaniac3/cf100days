@@ -12,7 +12,6 @@ function getData() {
         $.each(data, function(index, value) {
             artistSlots.push(value);
         })
-        console.log(artistSlots);
         populateTable();
     })
 }
