@@ -6,7 +6,7 @@ body {
     font-family: museo;
     margin: 0;
     line-height: 1.5em;
-    background-color: #ffffff;
+    background-color: #e6e2d7;
     font-weight: 500;
 }
 
@@ -68,6 +68,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #contPadDOWN {
     padding-bottom: 2rem;
+}
+
+.no-hyphens {
+    hyphens: none;
 }
 
 
