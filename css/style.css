@@ -53,9 +53,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #colHyphens {
-    -webkit-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
 }
 
 #nameColour {
@@ -68,10 +68,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #contPadDOWN {
     padding-bottom: 2rem;
-}
-
-.no-hyphens {
-    hyphens: none;
 }
 
 

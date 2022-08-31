@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", init);
 
 var artistSlots = [];
-const sourceURL = "https://art30days.s3.amazonaws.com/artists.json";
+const sourceURL = "../artists.json";
 
 function init() {
     getData();
