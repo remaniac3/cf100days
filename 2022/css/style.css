@@ -6,7 +6,7 @@ body {
     font-family: museo;
     margin: 0;
     line-height: 1.5em;
-    /* background-color: #d2f5ff; */
+    background-color: #e6e2d7;
     font-weight: 500;
 }
 
@@ -45,16 +45,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .text-align-center {
     text-align: center;
-    line-height: 200%;
-}
-
-.line-spacing {
-    line-height: 200%;
-}
-
-.txt-align-justify {
-    text-align: justify;
-    text-justify: inter-word;
 }
 
 #colpaddingEX {
