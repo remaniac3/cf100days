@@ -870,6 +870,11 @@
         "name": "Kinnikihime",
         "email": "ar*******@h**********",
         "pref": 1
+      },
+      {
+        "name": "Z-mk",
+        "email": "pm******@h**********",
+        "pref": 1
       }
     ]
   },
@@ -1459,6 +1464,11 @@
         "name": "Maymorin",
         "email": "ch*********@l*******",
         "pref": 1
+      },
+      {
+        "name": "yumeoi",
+        "email": "yu**********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1619,7 +1629,18 @@
   {
     "day": 86,
     "date": "28-Sep-23",
-    "artists": []
+    "artists": [
+      {
+        "name": "Nick Stick",
+        "email": "ni********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Leeda",
+        "email": "le*******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 87,
@@ -1655,6 +1676,11 @@
       {
         "name": "Raihani",
         "email": "ra*************@g********",
+        "pref": 1
+      },
+      {
+        "name": "The Midnight Shenanigans ",
+        "email": "te********@g********",
         "pref": 1
       }
     ]
@@ -1748,7 +1774,13 @@
   {
     "day": 97,
     "date": "17-Sep-23",
-    "artists": []
+    "artists": [
+      {
+        "name": "Teabreak",
+        "email": "an********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 98,
