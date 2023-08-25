@@ -600,6 +600,11 @@
         "name": "12am Atelier",
         "email": "12**********@g********",
         "pref": 2
+      },
+      {
+        "name": "Kiwi",
+        "email": "ke********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1619,6 +1624,11 @@
         "name": "ariftdesign",
         "email": "ar*************@g********",
         "pref": 1
+      },
+      {
+        "name": "racchan",
+        "email": "na******@g********",
+        "pref": 1
       }
     ]
   },
@@ -1677,6 +1687,11 @@
       {
         "name": "Bossu",
         "email": "ec*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "homuhomu",
+        "email": "no**********@g********",
         "pref": 1
       }
     ]
@@ -1884,6 +1899,16 @@
       {
         "name": "Comicfoodiefreak_merchants ",
         "email": "ch********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Arekoleo",
+        "email": "ar******@g********",
+        "pref": 1
+      },
+      {
+        "name": "Nishverse",
+        "email": "m.**************@g********",
         "pref": 1
       }
     ]
