@@ -3,10 +3,10 @@ html {
 }
 
 body {
-    font-family: museo;
+    font-family: museo-sans;
     margin: 0;
     line-height: 1.5em;
-    /* background-color: #d2f5ff; */
+    background-color: #ED174F;
     font-weight: 500;
 }
 
@@ -16,8 +16,8 @@ main {
 
 a {
     text-decoration: none;
-    font-weight: 700;
-    color: #BE1E2D;
+    font-weight: 500;
+    color: #ED174F;
 }
 
 a:hover {
@@ -25,13 +25,14 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: museo;
     text-transform: uppercase;
     line-height: 1em;
     font-weight: 900;
 }
 
 .bg-dark {
-    background-color: #BE1E2D!important;
+    background-color: #ED174F!important;
 }
 
 .starter-template {
@@ -69,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #nameColour {
-    color: #BE1E2D;
+    color: #ED174F;
 }
 
 #contPadUP {
@@ -78,6 +79,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #contPadDOWN {
     padding-bottom: 2rem;
+}
+
+#body-bg {
+    background-color: #FFFFFF;
 }
 
 
@@ -89,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 */
 
     footer {
-        background-color: #BE1E2D;
+        background-color: #ED174F;
         text-align: center;
         position: absolute;
         width: 100%;
@@ -104,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .text-muted {
-        color: #dee2e6!important;
+        color: #ffffff!important;
     }
 
 
@@ -177,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 
     thead th {
         color: #ffffff;
-        background-color: #BE1E2D;
+        background-color: #ED174F;
         border-bottom: hidden;
     }
 
@@ -218,9 +223,9 @@ h1, h2, h3, h4, h5, h6 {
 */
 
     .btn-register {
-        background-color: #BE1E2D;
+        background-color: #ED174F;
         color: #FFFFFF;
-        font-weight: 700;
+        font-weight: 500;
         padding: 1rem 3rem 1rem 3rem;
     }
 
@@ -254,7 +259,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #mascotCoffy {
-        color: #BE1E2D;
+        color: #ED174F;
     }
 
 
@@ -274,3 +279,11 @@ h1, h2, h3, h4, h5, h6 {
     @font-face{font-family:museo;src:url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/l?subset_id=2&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/d?subset_id=2&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/a?subset_id=2&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;}
 
     @font-face{font-family:museo;src:url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;}
+
+    @font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?subset_id=2&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?subset_id=2&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?subset_id=2&fvd=i5&v=3) format("opentype");font-weight:500;font-style:normal;}
+
+    @font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/3e30bd/000000000000000077359949/30/l?subset_id=2&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3e30bd/000000000000000077359949/30/l?subset_id=2&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3e30bd/000000000000000077359949/30/l?subset_id=2&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;}
+
+    @font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?subset_id=2&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?subset_id=2&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?subset_id=2&fvd=i5&v=3) format("opentype");font-weight:700;font-style:normal;}
+
+    @font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?subset_id=2&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?subset_id=2&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?subset_id=2&fvd=i5&v=3) format("opentype");font-weight:700;font-style:italic;}
