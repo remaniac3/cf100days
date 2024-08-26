@@ -144,6 +144,11 @@
         "name": "Yaraka",
         "email": "p.********@g********",
         "pref": 1
+      },
+      {
+        "name": "GSong",
+        "email": "gs***************@g********",
+        "pref": 2
       }
     ]
   },
@@ -260,6 +265,11 @@
         "name": "Azz",
         "email": "si*********@g********",
         "pref": 1
+      },
+      {
+        "name": "Minirexartz",
+        "email": "e-****@h*********",
+        "pref": 1
       }
     ]
   },
@@ -291,6 +301,11 @@
       {
         "name": "Joe Westbrook ",
         "email": "ju**********@g********",
+        "pref": 2
+      },
+      {
+        "name": "PioMooN",
+        "email": "pi********@g********",
         "pref": 2
       }
     ]
@@ -440,7 +455,23 @@
   {
     "day": 24,
     "date": "27-Nov-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "Kayabun",
+        "email": "pi************@g********",
+        "pref": 1
+      },
+      {
+        "name": "Chipah",
+        "email": "pe********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Ichira",
+        "email": "ic*******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 25,
@@ -491,6 +522,11 @@
       {
         "name": "Jannhartz",
         "email": "nf******@y********",
+        "pref": 1
+      },
+      {
+        "name": "Karagna",
+        "email": "Li***************@g********",
         "pref": 1
       }
     ]
@@ -582,7 +618,13 @@
   {
     "day": 32,
     "date": "19-Nov-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "hachi.arty",
+        "email": "ha************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 33,
@@ -762,7 +804,13 @@
   {
     "day": 44,
     "date": "07-Nov-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "mochiwasabii",
+        "email": "na********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 45,
@@ -782,6 +830,11 @@
       {
         "name": "GatoRideR",
         "email": "ga*******@y********",
+        "pref": 1
+      },
+      {
+        "name": "ZyaC",
+        "email": "cz******@g********",
         "pref": 1
       }
     ]
@@ -872,6 +925,11 @@
       {
         "name": "Summer",
         "email": "we*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "XII",
+        "email": "xi**********@g********",
         "pref": 1
       }
     ]
@@ -1000,13 +1058,24 @@
         "name": "\u767d\u73ca\u745a\u99ac\u9234\u85afWhite Coral",
         "email": "co************@g********",
         "pref": 1
+      },
+      {
+        "name": "Peyren",
+        "email": "ma************@g********",
+        "pref": 1
       }
     ]
   },
   {
     "day": 59,
     "date": "23-Oct-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "ruffey_fleury",
+        "email": "ru********@g********",
+        "pref": 2
+      }
+    ]
   },
   {
     "day": 60,
@@ -1106,6 +1175,11 @@
         "name": "Ace Makuro",
         "email": "ac*********@g********",
         "pref": 2
+      },
+      {
+        "name": "Grumpydinosaur",
+        "email": "fa********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1184,6 +1258,11 @@
       {
         "name": "Clio",
         "email": "cl*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Bunnylis",
+        "email": "bu**********@g********",
         "pref": 1
       }
     ]
@@ -1385,6 +1464,11 @@
         "name": "SpaceOni",
         "email": "sp***********@g********",
         "pref": 1
+      },
+      {
+        "name": "SynzMayu",
+        "email": "rt****@g********",
+        "pref": 1
       }
     ]
   },
@@ -1438,6 +1522,11 @@
         "name": "Emeli\u827e\u7c73\u4e3d",
         "email": "em*********@g********",
         "pref": 2
+      },
+      {
+        "name": "dendalion_ch",
+        "email": "de*********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1460,7 +1549,13 @@
   {
     "day": 93,
     "date": "19-Sep-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "\u5b89\u795eanshen",
+        "email": "an**********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 94,
@@ -1518,6 +1613,11 @@
         "name": "Illy.Art",
         "email": "si**********@g********",
         "pref": 1
+      },
+      {
+        "name": "Qiiro",
+        "email": "ri************@g********",
+        "pref": 2
       }
     ]
   },
