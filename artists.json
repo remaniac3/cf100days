@@ -690,6 +690,16 @@
         "name": "FAMIPIC",
         "email": "nu***********@g********",
         "pref": 1
+      },
+      {
+        "name": "Saibrayyear",
+        "email": "sa*********@g********",
+        "pref": 2
+      },
+      {
+        "name": "Frozen",
+        "email": "di*********@g********",
+        "pref": 1
       }
     ]
   },
@@ -706,6 +716,11 @@
         "name": "PT1603",
         "email": "ho*****@g********",
         "pref": 1
+      },
+      {
+        "name": "fikkyun",
+        "email": "af******@y********",
+        "pref": 2
       }
     ]
   },
@@ -754,7 +769,23 @@
   {
     "day": 38,
     "date": "13-Nov-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "Ebiko99",
+        "email": "re********@g********",
+        "pref": 1
+      },
+      {
+        "name": "NOE",
+        "email": "no*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "Minekawaii",
+        "email": "mi*************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 39,
@@ -891,6 +922,11 @@
         "name": "ZyaC",
         "email": "cz******@g********",
         "pref": 1
+      },
+      {
+        "name": "\u707c\u591cYA",
+        "email": "te******@g********",
+        "pref": 1
       }
     ]
   },
@@ -922,6 +958,11 @@
       {
         "name": "Anisekay",
         "email": "an******@g********",
+        "pref": 1
+      },
+      {
+        "name": "adii",
+        "email": "ad*************@g********",
         "pref": 1
       }
     ]
@@ -1023,6 +1064,11 @@
         "name": "\u5f71\u6cc9 Kagezumi",
         "email": "al*********@h**********",
         "pref": 2
+      },
+      {
+        "name": "Still No Money ",
+        "email": "xi**********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1123,6 +1169,11 @@
         "name": "Peyren",
         "email": "ma************@g********",
         "pref": 1
+      },
+      {
+        "name": "Adzukimelon",
+        "email": "yu***********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1133,6 +1184,11 @@
       {
         "name": "ruffey_fleury",
         "email": "ru********@g********",
+        "pref": 2
+      },
+      {
+        "name": "Nikeyze",
+        "email": "ni********@y********",
         "pref": 2
       }
     ]
@@ -1161,7 +1217,18 @@
   {
     "day": 61,
     "date": "21-Oct-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "Yatsunote",
+        "email": "pe********@g********",
+        "pref": 2
+      },
+      {
+        "name": "golzybladedee",
+        "email": "go***********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 62,
@@ -1170,6 +1237,11 @@
       {
         "name": "Sugarmiki",
         "email": "su********@g********",
+        "pref": 1
+      },
+      {
+        "name": "VieN",
+        "email": "vu************@y********",
         "pref": 1
       }
     ]
@@ -1234,6 +1306,11 @@
       {
         "name": "Karmadino",
         "email": "li**************@g********",
+        "pref": 1
+      },
+      {
+        "name": "Kalmusagi",
+        "email": "ka*********@g********",
         "pref": 1
       }
     ]
@@ -1337,7 +1414,7 @@
         "pref": 1
       },
       {
-        "name": "Bunnylis",
+        "name": "BunnyLISA",
         "email": "bu**********@g********",
         "pref": 1
       }
@@ -1356,6 +1433,11 @@
         "name": "Foxkunkun",
         "email": "sa*********@g********",
         "pref": 1
+      },
+      {
+        "name": "NickStick23",
+        "email": "ni********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1366,6 +1448,11 @@
       {
         "name": "namie/\u30ca\u30df",
         "email": "pw*****@g********",
+        "pref": 1
+      },
+      {
+        "name": "Midnight Doodle",
+        "email": "mi**************@g********",
         "pref": 1
       }
     ]
@@ -1382,6 +1469,11 @@
       {
         "name": "ALYCESON TV",
         "email": "ki*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "B.r",
+        "email": "ka*********@g********",
         "pref": 1
       }
     ]
@@ -1401,7 +1493,7 @@
     "date": "05-Oct-24",
     "artists": [
       {
-        "name": "[VACANT] email us if you want this slot",
+        "name": "[LOCKED]",
         "email": "ex*****@e**********",
         "pref": 1
       },
@@ -1452,7 +1544,18 @@
   {
     "day": 80,
     "date": "02-Oct-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "airhead",
+        "email": "na*************@g********",
+        "pref": 2
+      },
+      {
+        "name": "\u30a8\u30eb\uff11\uff19\uff19\uff15",
+        "email": "ce**********************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 81,
@@ -1510,13 +1613,24 @@
         "name": "Aimi_Ketam",
         "email": "si*************@g********",
         "pref": 1
+      },
+      {
+        "name": "Peac.hy97",
+        "email": "nu************@g********",
+        "pref": 1
       }
     ]
   },
   {
     "day": 85,
     "date": "27-Sep-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "aijaishannmom_ / iamkaija",
+        "email": "ia********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 86,
