@@ -873,6 +873,11 @@
         "name": "KuroArt",
         "email": "mc********@g********",
         "pref": 1
+      },
+      {
+        "name": "Flyan Tan",
+        "email": "fl*******@o**********",
+        "pref": 1
       }
     ]
   },
@@ -926,6 +931,16 @@
         "name": "Kon Nokafii",
         "email": "kn******@g********",
         "pref": 1
+      },
+      {
+        "name": "tamatanz",
+        "email": "ta*******@g********",
+        "pref": 2
+      },
+      {
+        "name": "AhKinnn",
+        "email": "ju********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1289,6 +1304,11 @@
         "name": "Soujirou",
         "email": "so**************@g********",
         "pref": 1
+      },
+      {
+        "name": "Shacy's Pagelings",
+        "email": "sh*************@g********",
+        "pref": 2
       }
     ]
   },
@@ -1325,6 +1345,11 @@
       {
         "name": "yumeoi",
         "email": "ch**********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Jin",
+        "email": "ji**********@g********",
         "pref": 1
       }
     ]
@@ -1546,6 +1571,11 @@
       {
         "name": "Aver",
         "email": "av************@g********",
+        "pref": 2
+      },
+      {
+        "name": "Cryssalia",
+        "email": "li********@g********",
         "pref": 2
       }
     ]
@@ -1807,7 +1837,18 @@
   {
     "day": 91,
     "date": "21-Sep-24",
-    "artists": []
+    "artists": [
+      {
+        "name": "Mita ",
+        "email": "mi****************@g********",
+        "pref": 1
+      },
+      {
+        "name": "Ninjalight",
+        "email": "ju************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 92,
@@ -1939,6 +1980,11 @@
         "name": "Guenius",
         "email": "ni***********@g********",
         "pref": 1
+      },
+      {
+        "name": "ARIMARUN",
+        "email": "ar********@g********",
+        "pref": 2
       }
     ]
   },
