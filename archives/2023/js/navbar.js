@@ -17,29 +17,26 @@ function createNavbarTemplate(pageName) {
         li_class_current_schedule = "";
     };
 
+    resetAllTags();
+
     switch(pageName) {
         case "index":
-            resetAllTags();
             li_class_index = nav_item_active;
             li_class_current_index = span_current;
             break;
         case "mascots":
-            resetAllTags();
             li_class_mascots = nav_item_active;
             li_class_current_mascots = span_current;
             break;
         case "rnr":
-            resetAllTags();
             li_class_rnr = nav_item_active;
             li_class_current_rnr = span_current;
             break;
         case "schedule":
-            resetAllTags();
             li_class_schedule = nav_item_active;
             li_class_current_schedule = span_current;
             break;
         default:
-            resetAllTags();
             break;
     };
 
@@ -67,7 +64,7 @@ function createNavbarTemplate(pageName) {
                         <a class="nav-link" href="./schedule.html" alt="100 Days Countdown Schedule">SCHEDULE${li_class_current_schedule}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/archives.html" alt="100 Days Countdown Archives" target="_blank" rel="noopener">ARCHIVES</a>
+                        <a class="nav-link" href="/archives.html" alt="100 Days Countdown Archives">ARCHIVES</a>
                     </li>
                 </ul>
             </div>
