@@ -255,12 +255,8 @@ h1, h2, h3, h4, h5, h6 {
 ================================
 */
 
-    @font-face{font-family:museo;src:url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/l?subset_id=2&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/d?subset_id=2&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/a?subset_id=2&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;}
+    @font-face{font-family:"museo";src:url("/fonts/Museo500-Regular.otf") format("opentype");font-weight:500;font-style:normal;}
         
-    @font-face{font-family:museo;src:url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}
+    @font-face{font-family:"museo";src:url("/fonts/Museo500-Regular.otf") format("opentype");font-weight:700;font-style:normal;}
 
-    @font-face{font-family:museo;src:url(https://use.typekit.net/af/02218c/000000000000000000011b27/27/l?subset_id=2&fvd=n9&v=3) format("woff2"),url(https://use.typekit.net/af/02218c/000000000000000000011b27/27/d?subset_id=2&fvd=n9&v=3) format("woff"),url(https://use.typekit.net/af/02218c/000000000000000000011b27/27/a?subset_id=2&fvd=n9&v=3) format("opentype");font-weight:900;font-style:normal;}
-
-    @font-face{font-family:museo;src:url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/l?subset_id=2&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/d?subset_id=2&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/a?subset_id=2&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;}
-
-    @font-face{font-family:museo;src:url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;}
+    @font-face{font-family:"museo";src:url("/fonts/Museo500-Regular.otf") format("opentype");font-weight:900;font-style:normal;}

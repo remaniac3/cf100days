@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", init);
 
 var artistSlots = [];
-const sourceURL = "../artists.json";
+const sourceURL = "/archives/2022/artists.json";
 
 function init() {
     getData();
