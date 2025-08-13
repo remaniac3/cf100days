@@ -8,16 +8,31 @@
         --btn_archive_hover_opacity: 0.6;
     }
 
+    .btn-archives-2024 {
+        background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_static_opacity)), rgba(237, 23, 79, var(--btn_archive_static_opacity))),
+            url(/archives/2024/img/banner_home.webp);
+        background-position: 60% 28%;
+        background-size: auto;
+    }
+
+    .btn-archives-2024:hover{
+        background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_hover_opacity)), rgba(237, 23, 79, var(--btn_archive_hover_opacity))),
+            url(/archives/2024/img/banner_home.webp);
+        background-position: 60% 28%;
+        background-size: auto;
+        color: #FFFFFF;
+    }
+
     .btn-archives-2023 {
         background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_static_opacity)), rgba(237, 23, 79, var(--btn_archive_static_opacity))),
-            url(../archives/2023/img/banner_home.jpg);
+            url(/archives/2023/img/banner_home.jpg);
         background-position: center 18%;
         background-size: auto;
     }
 
     .btn-archives-2023:hover{
         background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_hover_opacity)), rgba(237, 23, 79, var(--btn_archive_hover_opacity))),
-            url(../archives/2023/img/banner_home.jpg);
+            url(/archives/2023/img/banner_home.jpg);
         background-position: center 18%;
         background-size: auto;
         color: #FFFFFF;
@@ -25,14 +40,14 @@
 
     .btn-archives-2022 {
         background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_static_opacity)), rgba(237, 23, 79, var(--btn_archive_static_opacity))),
-            url(../archives/2022/img/2022_banner_home.jpg);
+            url(/archives/2022/img/2022_banner_home.jpg);
         background-position: center 30%;
         background-size: auto;
     }
 
     .btn-archives-2022:hover{
         background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_hover_opacity)), rgba(237, 23, 79, var(--btn_archive_hover_opacity))),
-            url(../archives/2022/img/2022_banner_home.jpg);
+            url(/archives/2022/img/2022_banner_home.jpg);
         background-position: center 30%;
         background-size: auto;
         color: #FFFFFF;
@@ -40,14 +55,14 @@
 
     .btn-archives-2019 {
         background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_static_opacity)), rgba(237, 23, 79, var(--btn_archive_static_opacity))),
-            url(../archives/2019/img/2019_banner_home.jpg);
+            url(/archives/2019/img/2019_banner_home.jpg);
         background-position: center 25%;
         background-size: auto;
     }
 
     .btn-archives-2019:hover{
         background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_hover_opacity)), rgba(237, 23, 79, var(--btn_archive_hover_opacity))),
-            url(../archives/2019/img/2019_banner_home.jpg);
+            url(/archives/2019/img/2019_banner_home.jpg);
         background-position: center 25%;
         background-size: auto;
         color: #FFFFFF;
