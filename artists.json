@@ -617,6 +617,11 @@
         "name": "ShinKo",
         "email": "jx*******@g********",
         "pref": 1
+      },
+      {
+        "name": "hana",
+        "email": "ta******@g********",
+        "pref": 1
       }
     ]
   },
@@ -1175,7 +1180,13 @@
   {
     "day": 65,
     "date": "16-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Tata SnFlwr",
+        "email": "ha************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 66,
@@ -1425,7 +1436,13 @@
   {
     "day": 81,
     "date": "30-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Syir Jer",
+        "email": "ni*********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 82,
