@@ -369,6 +369,11 @@
         "name": "Kaichu",
         "email": "ka********@g********",
         "pref": 2
+      },
+      {
+        "name": "Catrocker",
+        "email": "ca*********@g********",
+        "pref": 2
       }
     ]
   },
@@ -959,6 +964,11 @@
         "name": "AVA",
         "email": "av***********@g********",
         "pref": 1
+      },
+      {
+        "name": "Pengin Kun",
+        "email": "pe*******@g********",
+        "pref": 1
       }
     ]
   },
@@ -1177,6 +1187,11 @@
       {
         "name": "YuruArt",
         "email": "yu***********@g********",
+        "pref": 1
+      },
+      {
+        "name": "RoKu",
+        "email": "ro*********@g********",
         "pref": 1
       }
     ]
@@ -1450,6 +1465,11 @@
         "name": "Grind",
         "email": "ev********@g********",
         "pref": 2
+      },
+      {
+        "name": "Jacqueda",
+        "email": "im*******@g********",
+        "pref": 1
       }
     ]
   },
