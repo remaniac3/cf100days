@@ -243,6 +243,11 @@
         "name": "Aka.Kaze",
         "email": "sh*******@g********",
         "pref": 1
+      },
+      {
+        "name": "Jyyin00",
+        "email": "Ji********@g********",
+        "pref": 1
       }
     ]
   },
@@ -342,6 +347,11 @@
       {
         "name": "Yuinedraws",
         "email": "yu********@g********",
+        "pref": 1
+      },
+      {
+        "name": "wantama",
+        "email": "no********@g********",
         "pref": 1
       }
     ]
@@ -627,6 +637,11 @@
         "name": "hana",
         "email": "ta******@g********",
         "pref": 1
+      },
+      {
+        "name": "Kikko",
+        "email": "ki*********@h**********",
+        "pref": 1
       }
     ]
   },
@@ -886,6 +901,11 @@
         "name": "Demore",
         "email": "de*********@g********",
         "pref": 1
+      },
+      {
+        "name": "VIOLETRINTY",
+        "email": "vi**************@g********",
+        "pref": 1
       }
     ]
   },
@@ -934,7 +954,13 @@
   {
     "day": 48,
     "date": "02-Nov-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "AVA",
+        "email": "av***********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 49,
@@ -1403,6 +1429,11 @@
         "name": "Shaft",
         "email": "Sh*******@g********",
         "pref": 1
+      },
+      {
+        "name": "CCwahaha",
+        "email": "ca*************@h**********",
+        "pref": 1
       }
     ]
   },
@@ -1642,6 +1673,11 @@
       {
         "name": "\u6de6\u6de6Akahi",
         "email": "ga*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "fr_hanz",
+        "email": "ze*******@g********",
         "pref": 1
       }
     ]
