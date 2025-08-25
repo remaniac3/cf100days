@@ -12,6 +12,11 @@
         "name": "Pandalim ",
         "email": "pa**********@g********",
         "pref": 1
+      },
+      {
+        "name": "Serelithmodeus",
+        "email": "se************@g********",
+        "pref": 1
       }
     ]
   },
@@ -166,6 +171,16 @@
         "name": "Shahfadhil ",
         "email": "mo***********@g********",
         "pref": 1
+      },
+      {
+        "name": "Shacy's Pagelings ",
+        "email": "sh*************@g********",
+        "pref": 1
+      },
+      {
+        "name": "Arics",
+        "email": "di***********@g********",
+        "pref": 1
       }
     ]
   },
@@ -181,6 +196,11 @@
       {
         "name": "Dawn Lingchen",
         "email": "da**********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Leonard Loh",
+        "email": "le*********@g********",
         "pref": 1
       }
     ]
@@ -447,6 +467,11 @@
         "name": "  Gingerko",
         "email": "gi**********@g********",
         "pref": 1
+      },
+      {
+        "name": "Chipah",
+        "email": "pe********@g********",
+        "pref": 1
       }
     ]
   },
@@ -517,7 +542,13 @@
   {
     "day": 34,
     "date": "16-Nov-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Minomiyn",
+        "email": "mi******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 35,
@@ -543,7 +574,18 @@
   {
     "day": 36,
     "date": "14-Nov-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "\u94b1\u4e95\u51c9\u8336",
+        "email": "ry******@g********",
+        "pref": 1
+      },
+      {
+        "name": "Kat Yh",
+        "email": "kt******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 37,
@@ -764,12 +806,24 @@
   {
     "day": 53,
     "date": "28-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "qin",
+        "email": "ch**************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 54,
     "date": "27-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "MsBubblebun",
+        "email": "ms**********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 55,
@@ -986,7 +1040,13 @@
   {
     "day": 72,
     "date": "09-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Midnight Doodle",
+        "email": "mi**************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 73,
@@ -1018,7 +1078,13 @@
   {
     "day": 76,
     "date": "05-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Pro.Bossu",
+        "email": "er**********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 77,
@@ -1055,6 +1121,11 @@
         "name": "Mandorie_Art",
         "email": "nu*****************@g********",
         "pref": 1
+      },
+      {
+        "name": "Elfya lone",
+        "email": "ka*************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1082,7 +1153,13 @@
   {
     "day": 84,
     "date": "27-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Mani",
+        "email": "im*********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 85,
@@ -1183,7 +1260,13 @@
   {
     "day": 95,
     "date": "16-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Obentoasa",
+        "email": "ob*******@g********",
+        "pref": 2
+      }
+    ]
   },
   {
     "day": 96,
