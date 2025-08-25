@@ -150,6 +150,16 @@
         "name": "FAMIPIC ",
         "email": "nu***********@g********",
         "pref": 1
+      },
+      {
+        "name": "Bellterax",
+        "email": "be*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "Raul Wang",
+        "email": "ra******@g********",
+        "pref": 2
       }
     ]
   },
@@ -688,6 +698,11 @@
         "name": "aijaishannmom_ | iamkaija",
         "email": "ia********@g********",
         "pref": 1
+      },
+      {
+        "name": "RottenVelvet",
+        "email": "ro**********@g********",
+        "pref": 2
       }
     ]
   },
@@ -778,7 +793,13 @@
   {
     "day": 43,
     "date": "07-Nov-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Farah Lina Daim",
+        "email": "da*******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 44,
@@ -986,7 +1007,13 @@
   {
     "day": 58,
     "date": "23-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Ai-Tea",
+        "email": "ai********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 59,
@@ -1207,6 +1234,11 @@
         "name": "namie/73cro",
         "email": "pw*****@g********",
         "pref": 1
+      },
+      {
+        "name": "Reveen",
+        "email": "re********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1246,7 +1278,13 @@
   {
     "day": 77,
     "date": "04-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Memai",
+        "email": "me********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 78,
@@ -1283,6 +1321,11 @@
         "name": "Elfya lone",
         "email": "ka*************@g********",
         "pref": 1
+      },
+      {
+        "name": "Eggboi",
+        "email": "xy********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1438,7 +1481,13 @@
   {
     "day": 96,
     "date": "15-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Genericmav",
+        "email": "fa******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 97,
