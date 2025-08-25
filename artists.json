@@ -177,6 +177,11 @@
         "name": "\u661f\u732bowo",
         "email": "ji*********@g********",
         "pref": 1
+      },
+      {
+        "name": "InahoSynn",
+        "email": "sy*****@g********",
+        "pref": 1
       }
     ]
   },
@@ -271,6 +276,11 @@
       {
         "name": "Nyinjia",
         "email": "ny*****@g********",
+        "pref": 1
+      },
+      {
+        "name": "Kuro Ookami",
+        "email": "ku**************@g********",
         "pref": 1
       }
     ]
@@ -457,6 +467,16 @@
         "name": "Kaneeee",
         "email": "ka*********@g********",
         "pref": 1
+      },
+      {
+        "name": "Fifiiiiyo_",
+        "email": "fi*********@g********",
+        "pref": 2
+      },
+      {
+        "name": "CADO",
+        "email": "we*******@g********",
+        "pref": 2
       }
     ]
   },
@@ -769,7 +789,13 @@
   {
     "day": 45,
     "date": "05-Nov-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Demore",
+        "email": "de*********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 46,
@@ -1033,6 +1059,11 @@
       {
         "name": "blackestella",
         "email": "bl************@g********",
+        "pref": 1
+      },
+      {
+        "name": "Ne Po Ne",
+        "email": "ki*********@g********",
         "pref": 1
       }
     ]
@@ -1313,6 +1344,11 @@
         "name": "Mai Shiro",
         "email": "ma********@g********",
         "pref": 1
+      },
+      {
+        "name": "iluluminous",
+        "email": "hu*********@y********",
+        "pref": 1
       }
     ]
   },
@@ -1371,6 +1407,11 @@
         "name": "Obentoasa",
         "email": "ob*******@g********",
         "pref": 2
+      },
+      {
+        "name": "Nayupan",
+        "email": "na*******@g********",
+        "pref": 2
       }
     ]
   },
@@ -1392,7 +1433,13 @@
   {
     "day": 99,
     "date": "12-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "\u6de6\u6de6Akahi",
+        "email": "ga*******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 100,
