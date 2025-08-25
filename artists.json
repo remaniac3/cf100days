@@ -33,6 +33,11 @@
         "name": "CaelousDall",
         "email": "my********@g********",
         "pref": 1
+      },
+      {
+        "name": "BANANA",
+        "email": "ba**********@g********",
+        "pref": 2
       }
     ]
   },
@@ -434,6 +439,11 @@
         "name": "Kayabun",
         "email": "pi************@g********",
         "pref": 1
+      },
+      {
+        "name": "Hanaberin",
+        "email": "ha********@g********",
+        "pref": 2
       }
     ]
   },
@@ -682,6 +692,11 @@
         "name": "Kat Yh",
         "email": "kt******@g********",
         "pref": 1
+      },
+      {
+        "name": "BossVeryBusy",
+        "email": "bo**********@g********",
+        "pref": 1
       }
     ]
   },
@@ -788,7 +803,13 @@
   {
     "day": 42,
     "date": "08-Nov-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Eisner",
+        "email": "pa******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 43,
@@ -925,6 +946,11 @@
         "name": "ACWC",
         "email": "AC******@g********",
         "pref": 1
+      },
+      {
+        "name": "MaiaBiri",
+        "email": "ka*********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1018,7 +1044,13 @@
   {
     "day": 59,
     "date": "22-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "ruffey_fleury",
+        "email": "ru********@g********",
+        "pref": 2
+      }
+    ]
   },
   {
     "day": 60,
@@ -1357,6 +1389,11 @@
       {
         "name": "Mani",
         "email": "im*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Syuichi",
+        "email": "sy***********@g********",
         "pref": 1
       }
     ]
