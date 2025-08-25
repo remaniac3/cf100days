@@ -55,7 +55,13 @@
   {
     "day": 4,
     "date": "16-Dec-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Ninosbite",
+        "email": "ne**********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 5,
@@ -85,6 +91,16 @@
       {
         "name": "TBVHYSMN",
         "email": "tb******@g********",
+        "pref": 1
+      },
+      {
+        "name": "aquazablue",
+        "email": "aq********@g********",
+        "pref": 2
+      },
+      {
+        "name": "Boo Alien",
+        "email": "yi*******@g********",
         "pref": 1
       }
     ]
@@ -250,6 +266,11 @@
       {
         "name": "XII",
         "email": "wo***********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Nyinjia",
+        "email": "ny*****@g********",
         "pref": 1
       }
     ]
@@ -579,6 +600,11 @@
         "name": "Minomiyn",
         "email": "mi******@g********",
         "pref": 1
+      },
+      {
+        "name": "NotsoGOAT",
+        "email": "no***********@g********",
+        "pref": 1
       }
     ]
   },
@@ -642,6 +668,11 @@
       {
         "name": "VirusZeke",
         "email": "na***********@y********",
+        "pref": 1
+      },
+      {
+        "name": "YayahWan ",
+        "email": "hi*******@g********",
         "pref": 1
       }
     ]
@@ -769,6 +800,11 @@
         "name": "Louie",
         "email": "ki********@y********",
         "pref": 1
+      },
+      {
+        "name": "Ahyee",
+        "email": "lj********@g********",
+        "pref": 1
       }
     ]
   },
@@ -822,7 +858,13 @@
   {
     "day": 51,
     "date": "30-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "ACWC",
+        "email": "AC******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 52,
@@ -1003,6 +1045,11 @@
         "name": "Yuko.Ong",
         "email": "as*******@g********",
         "pref": 1
+      },
+      {
+        "name": "ChronismnN",
+        "email": "mi********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1104,13 +1151,24 @@
         "name": "zhenyuann",
         "email": "zh***********@g********",
         "pref": 1
+      },
+      {
+        "name": "namie/73cro",
+        "email": "pw*****@g********",
+        "pref": 1
       }
     ]
   },
   {
     "day": 74,
     "date": "07-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "KopitoArts",
+        "email": "mu*********************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 75,
