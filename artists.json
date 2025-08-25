@@ -1,2102 +1,502 @@
 [
   {
     "day": 1,
-    "date": "20-Dec-24",
-    "artists": [
-      {
-        "name": "Nisemori",
-        "email": "ar*****@g********",
-        "pref": 1
-      },
-      {
-        "name": "Fourone Wong",
-        "email": "si**********@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Penny Wong",
-        "email": "pe********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "19-Dec-25",
+    "artists": []
   },
   {
     "day": 2,
-    "date": "19-Dec-24",
-    "artists": [
-      {
-        "name": "CYCzen",
-        "email": "to********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Puffthepanda",
-        "email": "pu***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Pandalim",
-        "email": "pa**********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "18-Dec-25",
+    "artists": []
   },
   {
     "day": 3,
-    "date": "18-Dec-24",
-    "artists": [
-      {
-        "name": "Rinnv",
-        "email": "ri**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Kiera",
-        "email": "ki*******@y********",
-        "pref": 1
-      },
-      {
-        "name": "akaeqo",
-        "email": "ak****@g********",
-        "pref": 1
-      }
-    ]
+    "date": "17-Dec-25",
+    "artists": []
   },
   {
     "day": 4,
-    "date": "17-Dec-24",
-    "artists": [
-      {
-        "name": "Apririnn",
-        "email": "lu***********@y********",
-        "pref": 1
-      },
-      {
-        "name": "Crystal",
-        "email": "ya*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Yao \u723b",
-        "email": "co**********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "16-Dec-25",
+    "artists": []
   },
   {
     "day": 5,
-    "date": "16-Dec-24",
-    "artists": [
-      {
-        "name": "poms",
-        "email": "po******************@g********",
-        "pref": 1
-      },
-      {
-        "name": "\u532f\u5b50\u662f\u4e5f Here's HUICO",
-        "email": "hu*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Sozaiko",
-        "email": "so*******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "15-Dec-25",
+    "artists": []
   },
   {
     "day": 6,
-    "date": "15-Dec-24",
-    "artists": [
-      {
-        "name": "Kookieduh",
-        "email": "k8***************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Leaf",
-        "email": "ss******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Kai'E",
-        "email": "ka******@g********",
-        "pref": 2
-      }
-    ]
+    "date": "14-Dec-25",
+    "artists": []
   },
   {
     "day": 7,
-    "date": "14-Dec-24",
-    "artists": [
-      {
-        "name": "Titapi",
-        "email": "ti********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Fadhil",
-        "email": "mo***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Luoka",
-        "email": "ka******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "13-Dec-25",
+    "artists": []
   },
   {
     "day": 8,
-    "date": "13-Dec-24",
-    "artists": [
-      {
-        "name": "Yaraka",
-        "email": "p.********@g********",
-        "pref": 1
-      },
-      {
-        "name": "GSong",
-        "email": "gs***************@g********",
-        "pref": 2
-      },
-      {
-        "name": "Maxie721",
-        "email": "ch************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "12-Dec-25",
+    "artists": []
   },
   {
     "day": 9,
-    "date": "12-Dec-24",
-    "artists": [
-      {
-        "name": "Aimizuha",
-        "email": "ai******@g********",
-        "pref": 2
-      },
-      {
-        "name": "Appl3 Pen ",
-        "email": "ap**************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Shermypotato",
-        "email": "sh**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "11-Dec-25",
+    "artists": []
   },
   {
     "day": 10,
-    "date": "11-Dec-24",
-    "artists": [
-      {
-        "name": "Edogaaaa",
-        "email": "li**************@g********",
-        "pref": 2
-      },
-      {
-        "name": "Leonard Chong",
-        "email": "le*********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Yit_Julia",
-        "email": "yi******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "10-Dec-25",
+    "artists": []
   },
   {
     "day": 11,
-    "date": "10-Dec-24",
-    "artists": [
-      {
-        "name": "Shaft",
-        "email": "sh*******@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Grind",
-        "email": "co********@g********",
-        "pref": 1
-      },
-      {
-        "name": "By_Suzuran",
-        "email": "al**********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "09-Dec-25",
+    "artists": []
   },
   {
     "day": 12,
-    "date": "09-Dec-24",
-    "artists": [
-      {
-        "name": "VulcanCav",
-        "email": "ca********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Duckwai",
-        "email": "wt****@h**********",
-        "pref": 1
-      },
-      {
-        "name": "BUTTERSPOON",
-        "email": "bu*****************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "08-Dec-25",
+    "artists": []
   },
   {
     "day": 13,
-    "date": "08-Dec-24",
-    "artists": [
-      {
-        "name": "akashuun",
-        "email": "ss*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Roku",
-        "email": "ro*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Q12",
-        "email": "ho************@g********",
-        "pref": 2
-      }
-    ]
+    "date": "07-Dec-25",
+    "artists": []
   },
   {
     "day": 14,
-    "date": "07-Dec-24",
-    "artists": [
-      {
-        "name": "Azz",
-        "email": "si*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Minirexartz",
-        "email": "e-****@h*********",
-        "pref": 1
-      },
-      {
-        "name": "Ebiko99",
-        "email": "ko***********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "06-Dec-25",
+    "artists": []
   },
   {
     "day": 15,
-    "date": "06-Dec-24",
-    "artists": [
-      {
-        "name": "DestinYuu",
-        "email": "de********@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Qinyi_10",
-        "email": "qi******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Taatoruchan",
-        "email": "ta*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "05-Dec-25",
+    "artists": []
   },
   {
     "day": 16,
-    "date": "05-Dec-24",
-    "artists": [
-      {
-        "name": "Yuudan",
-        "email": "yu********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Joe Westbrook ",
-        "email": "ju**********@g********",
-        "pref": 2
-      },
-      {
-        "name": "PioMooN",
-        "email": "pi********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "04-Dec-25",
+    "artists": []
   },
   {
     "day": 17,
-    "date": "04-Dec-24",
-    "artists": [
-      {
-        "name": "akito jin",
-        "email": "to*************@g********",
-        "pref": 1
-      },
-      {
-        "name": "NJnywy",
-        "email": "ni*********@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Yuine",
-        "email": "yu********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "03-Dec-25",
+    "artists": []
   },
   {
     "day": 18,
-    "date": "03-Dec-24",
-    "artists": [
-      {
-        "name": "Whimsery",
-        "email": "wh***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Seichi ",
-        "email": "se*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "KumaOne ",
-        "email": "ji*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "02-Dec-25",
+    "artists": []
   },
   {
     "day": 19,
-    "date": "02-Dec-24",
-    "artists": [
-      {
-        "name": "mezson",
-        "email": "me*******@g********",
-        "pref": 2
-      },
-      {
-        "name": "Rei Hana",
-        "email": "ya********@g********",
-        "pref": 1
-      },
-      {
-        "name": "AYL",
-        "email": "ay**********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "01-Dec-25",
+    "artists": []
   },
   {
     "day": 20,
-    "date": "01-Dec-24",
-    "artists": [
-      {
-        "name": "dakoera",
-        "email": "da*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "NMY ",
-        "email": "nu************@g********",
-        "pref": 1
-      },
-      {
-        "name": "fuwafuwa",
-        "email": "ye*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "30-Nov-25",
+    "artists": []
   },
   {
     "day": 21,
-    "date": "30-Nov-24",
-    "artists": [
-      {
-        "name": "CrazyGoat",
-        "email": "e.*****@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Arzalia",
-        "email": "ar********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Kuro Ookami",
-        "email": "ku**************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "29-Nov-25",
+    "artists": []
   },
   {
     "day": 22,
-    "date": "29-Nov-24",
-    "artists": [
-      {
-        "name": "KhunIX \u4e5d\u8ecd",
-        "email": "kh****@g********",
-        "pref": 1
-      },
-      {
-        "name": "Dinman",
-        "email": "Da********@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Malt Candy",
-        "email": "ta*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "28-Nov-25",
+    "artists": []
   },
   {
     "day": 23,
-    "date": "28-Nov-24",
-    "artists": [
-      {
-        "name": "ryooniisama",
-        "email": "ry***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Most",
-        "email": "mo********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Nekojin Workshop ",
-        "email": "ne*************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "27-Nov-25",
+    "artists": []
   },
   {
     "day": 24,
-    "date": "27-Nov-24",
-    "artists": [
-      {
-        "name": "Kayabun",
-        "email": "pi************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Chipah",
-        "email": "pe********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Ichira",
-        "email": "ic*******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "26-Nov-25",
+    "artists": []
   },
   {
     "day": 25,
-    "date": "26-Nov-24",
-    "artists": [
-      {
-        "name": "Stellaxin",
-        "email": "wx***@h**********",
-        "pref": 1
-      },
-      {
-        "name": "hangkijang",
-        "email": "ya***********@g********",
-        "pref": 2
-      },
-      {
-        "name": "1001Kei",
-        "email": "10*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "25-Nov-25",
+    "artists": []
   },
   {
     "day": 26,
-    "date": "25-Nov-24",
-    "artists": [
-      {
-        "name": "marcustee",
-        "email": "ma**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Zuura-X",
-        "email": "zu*****@g********",
-        "pref": 2
-      },
-      {
-        "name": "Dream Hara",
-        "email": "dr*************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "24-Nov-25",
+    "artists": []
   },
   {
     "day": 27,
-    "date": "24-Nov-24",
-    "artists": [
-      {
-        "name": "Eurylena",
-        "email": "eu******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Jannhartz",
-        "email": "nf******@y********",
-        "pref": 1
-      },
-      {
-        "name": "Karagna",
-        "email": "Li***************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "23-Nov-25",
+    "artists": []
   },
   {
     "day": 28,
-    "date": "23-Nov-24",
-    "artists": [
-      {
-        "name": "StrayToast",
-        "email": "ng*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Chirpy-chi",
-        "email": "ce********@o**********",
-        "pref": 1
-      },
-      {
-        "name": "Mindy Goh \u677e\u8d5e\u5584\u52c7",
-        "email": "mi********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "22-Nov-25",
+    "artists": []
   },
   {
     "day": 29,
-    "date": "22-Nov-24",
-    "artists": [
-      {
-        "name": "Kuro Tsubasa",
-        "email": "xi**********@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Sue Sukuuvestas",
-        "email": "su**********@g********",
-        "pref": 2
-      },
-      {
-        "name": "glindrawrs",
-        "email": "gl*********@z*******",
-        "pref": 2
-      }
-    ]
+    "date": "21-Nov-25",
+    "artists": []
   },
   {
     "day": 30,
-    "date": "21-Nov-24",
-    "artists": [
-      {
-        "name": "FanGogh",
-        "email": "fa*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Clivef\u68a8\u5b50",
-        "email": "le*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Inkotori",
-        "email": "in********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "20-Nov-25",
+    "artists": []
   },
   {
     "day": 31,
-    "date": "20-Nov-24",
-    "artists": [
-      {
-        "name": "mayokarage ",
-        "email": "na**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "ALEX",
-        "email": "sw****************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Noyuuu28",
-        "email": "no********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "19-Nov-25",
+    "artists": []
   },
   {
     "day": 32,
-    "date": "19-Nov-24",
-    "artists": [
-      {
-        "name": "hachi.arty",
-        "email": "ha************@g********",
-        "pref": 1
-      },
-      {
-        "name": "anoneki",
-        "email": "no***********@g********",
-        "pref": 2
-      },
-      {
-        "name": "YAN\u955c\u732b",
-        "email": "xi**********@h**********",
-        "pref": 2
-      }
-    ]
+    "date": "18-Nov-25",
+    "artists": []
   },
   {
     "day": 33,
-    "date": "18-Nov-24",
-    "artists": [
-      {
-        "name": "Steaktears",
-        "email": "st**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "venomxal",
-        "email": "va***********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Jyyin00",
-        "email": "Ji********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "17-Nov-25",
+    "artists": []
   },
   {
     "day": 34,
-    "date": "17-Nov-24",
-    "artists": [
-      {
-        "name": "FAMIPIC",
-        "email": "nu***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Saibrayyear",
-        "email": "sa*********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Frozen",
-        "email": "di*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "16-Nov-25",
+    "artists": []
   },
   {
     "day": 35,
-    "date": "16-Nov-24",
-    "artists": [
-      {
-        "name": "RayuKee",
-        "email": "ra********@g********",
-        "pref": 1
-      },
-      {
-        "name": "PT1603",
-        "email": "ho*****@g********",
-        "pref": 1
-      },
-      {
-        "name": "fikkyun",
-        "email": "af******@y********",
-        "pref": 2
-      }
-    ]
+    "date": "15-Nov-25",
+    "artists": []
   },
   {
     "day": 36,
-    "date": "15-Nov-24",
-    "artists": [
-      {
-        "name": "Vanila98",
-        "email": "ny*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Bellterax",
-        "email": "be*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "MaiShiro",
-        "email": "ma********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "14-Nov-25",
+    "artists": []
   },
   {
     "day": 37,
-    "date": "14-Nov-24",
-    "artists": [
-      {
-        "name": "Yunii",
-        "email": "yu********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Jonquilla",
-        "email": "jo***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "UmiWesker",
-        "email": "um*********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "13-Nov-25",
+    "artists": []
   },
   {
     "day": 38,
-    "date": "13-Nov-24",
-    "artists": [
-      {
-        "name": "Hexel",
-        "email": "he*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "NOE",
-        "email": "no*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Minekawaii",
-        "email": "mi*************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "12-Nov-25",
+    "artists": []
   },
   {
     "day": 39,
-    "date": "12-Nov-24",
-    "artists": [
-      {
-        "name": "YayahWan",
-        "email": "hi*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "RochiMochi",
-        "email": "ro*************@g********",
-        "pref": 1
-      },
-      {
-        "name": "\u5eda\u9918NoYa",
-        "email": "ra********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "11-Nov-25",
+    "artists": []
   },
   {
     "day": 40,
-    "date": "11-Nov-24",
-    "artists": [
-      {
-        "name": "Inderawasih",
-        "email": "fi**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Ava",
-        "email": "av***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Clothsy HJ",
-        "email": "cl*******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "10-Nov-25",
+    "artists": []
   },
   {
     "day": 41,
-    "date": "10-Nov-24",
-    "artists": [
-      {
-        "name": "Nightingale",
-        "email": "at***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "mewololo",
-        "email": "me**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Chibs",
-        "email": "po*******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "09-Nov-25",
+    "artists": []
   },
   {
     "day": 42,
-    "date": "09-Nov-24",
-    "artists": [
-      {
-        "name": "Rokuman",
-        "email": "ro*******@g********",
-        "pref": 2
-      },
-      {
-        "name": "KuroArt",
-        "email": "mc********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Flyan Tan",
-        "email": "fl*******@o**********",
-        "pref": 1
-      }
-    ]
+    "date": "08-Nov-25",
+    "artists": []
   },
   {
     "day": 43,
-    "date": "08-Nov-24",
-    "artists": [
-      {
-        "name": "Reno",
-        "email": "ak*************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Nyinjia",
-        "email": "ny*****@g********",
-        "pref": 1
-      },
-      {
-        "name": "Sirupyoong",
-        "email": "ka**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "07-Nov-25",
+    "artists": []
   },
   {
     "day": 44,
-    "date": "07-Nov-24",
-    "artists": [
-      {
-        "name": "mochiwasabii",
-        "email": "na********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Hiko15",
-        "email": "ni**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Dawn Lingchen",
-        "email": "da**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "06-Nov-25",
+    "artists": []
   },
   {
     "day": 45,
-    "date": "06-Nov-24",
-    "artists": [
-      {
-        "name": "Kon Nokafii",
-        "email": "kn******@g********",
-        "pref": 1
-      },
-      {
-        "name": "tamatanz",
-        "email": "ta*******@g********",
-        "pref": 2
-      },
-      {
-        "name": "AhKinnn",
-        "email": "ju********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "05-Nov-25",
+    "artists": []
   },
   {
     "day": 46,
-    "date": "05-Nov-24",
-    "artists": [
-      {
-        "name": "GatoRideR",
-        "email": "ga*******@y********",
-        "pref": 1
-      },
-      {
-        "name": "ZyaC",
-        "email": "cz******@g********",
-        "pref": 1
-      },
-      {
-        "name": "\u707c\u591cYA",
-        "email": "te******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "04-Nov-25",
+    "artists": []
   },
   {
     "day": 47,
-    "date": "04-Nov-24",
-    "artists": [
-      {
-        "name": "Seina",
-        "email": "se********@g********",
-        "pref": 1
-      },
-      {
-        "name": "\u8d85\u4e56\u6ce1\u8299",
-        "email": "gi*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "tamanaki",
-        "email": "ta**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "03-Nov-25",
+    "artists": []
   },
   {
     "day": 48,
-    "date": "03-Nov-24",
-    "artists": [
-      {
-        "name": "Anisekay",
-        "email": "an******@g********",
-        "pref": 1
-      },
-      {
-        "name": "adii",
-        "email": "ad*************@g********",
-        "pref": 1
-      },
-      {
-        "name": "@moshpipi_",
-        "email": "mu****************@g********",
-        "pref": 2
-      }
-    ]
+    "date": "02-Nov-25",
+    "artists": []
   },
   {
     "day": 49,
-    "date": "02-Nov-24",
-    "artists": [
-      {
-        "name": "Putra Akemp",
-        "email": "pu***************@g********",
-        "pref": 2
-      },
-      {
-        "name": "Yuumii",
-        "email": "mi**********@g********",
-        "pref": 2
-      },
-      {
-        "name": "aiyume",
-        "email": "az***********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "01-Nov-25",
+    "artists": []
   },
   {
     "day": 50,
-    "date": "01-Nov-24",
-    "artists": [
-      {
-        "name": "chikadainty",
-        "email": "pu**************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Paiien",
-        "email": "pa***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Vera Thong",
-        "email": "ve***********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "31-Oct-25",
+    "artists": []
   },
   {
     "day": 51,
-    "date": "31-Oct-24",
-    "artists": [
-      {
-        "name": "YengLee\u94f6\u72f8",
-        "email": "re******@l*******",
-        "pref": 1
-      },
-      {
-        "name": "Summer",
-        "email": "we*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "XII",
-        "email": "xi**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "30-Oct-25",
+    "artists": []
   },
   {
     "day": 52,
-    "date": "30-Oct-24",
-    "artists": [
-      {
-        "name": "mijuuu",
-        "email": "no************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Kazuki",
-        "email": "sh**************@g********",
-        "pref": 1
-      },
-      {
-        "name": "SesameJuice",
-        "email": "sh*******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "29-Oct-25",
+    "artists": []
   },
   {
     "day": 53,
-    "date": "29-Oct-24",
-    "artists": [
-      {
-        "name": "Nokun",
-        "email": "no*********@g********",
-        "pref": 2
-      },
-      {
-        "name": "\u5f71\u6cc9 Kagezumi",
-        "email": "al*********@h**********",
-        "pref": 2
-      },
-      {
-        "name": "Still No Money ",
-        "email": "xi**********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "28-Oct-25",
+    "artists": []
   },
   {
     "day": 54,
-    "date": "28-Oct-24",
-    "artists": [
-      {
-        "name": "Arold\u6700\u53ef\u7231",
-        "email": "ta***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Gigie Ritsu",
-        "email": "gi*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "AngGongJiao",
-        "email": "ca***********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "27-Oct-25",
+    "artists": []
   },
   {
     "day": 55,
-    "date": "27-Oct-24",
-    "artists": [
-      {
-        "name": "Tsubasa W. Hyraxisz",
-        "email": "ia******@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Graydient",
-        "email": "gr**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "MsBubblebun",
-        "email": "ms**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "26-Oct-25",
+    "artists": []
   },
   {
     "day": 56,
-    "date": "26-Oct-24",
-    "artists": [
-      {
-        "name": "SWuJay",
-        "email": "sw******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Keru-the-green ",
-        "email": "re**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Kat Yh",
-        "email": "kt******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "25-Oct-25",
+    "artists": []
   },
   {
     "day": 57,
-    "date": "25-Oct-24",
-    "artists": [
-      {
-        "name": "Karl Warffles",
-        "email": "ka***************@g********",
-        "pref": 1
-      },
-      {
-        "name": "K.Yv.Art",
-        "email": "ka*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Kaichu",
-        "email": "ka********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "24-Oct-25",
+    "artists": []
   },
   {
     "day": 58,
-    "date": "24-Oct-24",
-    "artists": [
-      {
-        "name": "\u767d\u73ca\u745a\u99ac\u9234\u85afWhite Coral",
-        "email": "co************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Peyren",
-        "email": "ma************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Adzukimelon",
-        "email": "yu***********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "23-Oct-25",
+    "artists": []
   },
   {
     "day": 59,
-    "date": "23-Oct-24",
-    "artists": [
-      {
-        "name": "ruffey_fleury",
-        "email": "ru********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Nikeyze",
-        "email": "ni********@y********",
-        "pref": 2
-      },
-      {
-        "name": "iluluminous ",
-        "email": "hu*********@y********",
-        "pref": 1
-      }
-    ]
+    "date": "22-Oct-25",
+    "artists": []
   },
   {
     "day": 60,
-    "date": "22-Oct-24",
-    "artists": [
-      {
-        "name": "jeebean99",
-        "email": "ji******@g********",
-        "pref": 1
-      },
-      {
-        "name": "kiyo\u6728\u53c8",
-        "email": "ch*****@h*********",
-        "pref": 1
-      },
-      {
-        "name": "Rysalia",
-        "email": "ra*******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "21-Oct-25",
+    "artists": []
   },
   {
     "day": 61,
-    "date": "21-Oct-24",
-    "artists": [
-      {
-        "name": "Yatsunote",
-        "email": "pe********@g********",
-        "pref": 2
-      },
-      {
-        "name": "golzybladedee",
-        "email": "go***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Ritsu",
-        "email": "mr**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "20-Oct-25",
+    "artists": []
   },
   {
     "day": 62,
-    "date": "20-Oct-24",
-    "artists": [
-      {
-        "name": "Sugarmiki",
-        "email": "su********@g********",
-        "pref": 1
-      },
-      {
-        "name": "VieN",
-        "email": "vu************@y********",
-        "pref": 1
-      },
-      {
-        "name": "AjiqAdan",
-        "email": "aj******@g********",
-        "pref": 2
-      }
-    ]
+    "date": "19-Oct-25",
+    "artists": []
   },
   {
     "day": 63,
-    "date": "19-Oct-24",
-    "artists": [
-      {
-        "name": "Soujirou",
-        "email": "so**************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Shacy's Pagelings",
-        "email": "sh*************@g********",
-        "pref": 2
-      },
-      {
-        "name": "Uddin Manaff",
-        "email": "ha**********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "18-Oct-25",
+    "artists": []
   },
   {
     "day": 64,
-    "date": "18-Oct-24",
-    "artists": [
-      {
-        "name": "Chanpeii",
-        "email": "ch*******@g********",
-        "pref": 2
-      },
-      {
-        "name": "NANAKEN",
-        "email": "ga**********@g********",
-        "pref": 2
-      },
-      {
-        "name": "mako",
-        "email": "ma*******@g********",
-        "pref": 1
-      }
-    ]
+    "date": "17-Oct-25",
+    "artists": []
   },
   {
     "day": 65,
-    "date": "17-Oct-24",
-    "artists": [
-      {
-        "name": "CreeperRudy",
-        "email": "ch*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "yumeoi",
-        "email": "ch**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Jin",
-        "email": "ji**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "16-Oct-25",
+    "artists": []
   },
   {
     "day": 66,
-    "date": "16-Oct-24",
-    "artists": [
-      {
-        "name": "Aradmille",
-        "email": "ar*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Karmadino",
-        "email": "li**************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Kalmusagi",
-        "email": "ka*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "15-Oct-25",
+    "artists": []
   },
   {
     "day": 67,
-    "date": "15-Oct-24",
-    "artists": [
-      {
-        "name": "Ace Makuro",
-        "email": "ac*********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Grumpydinosaur",
-        "email": "fa********@g********",
-        "pref": 2
-      },
-      {
-        "name": "That Guy",
-        "email": "we**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "14-Oct-25",
+    "artists": []
   },
   {
     "day": 68,
-    "date": "14-Oct-24",
-    "artists": [
-      {
-        "name": "SaifulSaltyBear",
-        "email": "sa**************@g********",
-        "pref": 1
-      },
-      {
-        "name": "ChronismN",
-        "email": "mi********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Krabzyr",
-        "email": "kr*****@g********",
-        "pref": 1
-      }
-    ]
+    "date": "13-Oct-25",
+    "artists": []
   },
   {
     "day": 69,
-    "date": "13-Oct-24",
-    "artists": [
-      {
-        "name": "Notaro",
-        "email": "al************@g********",
-        "pref": 1
-      },
-      {
-        "name": "UMI-INOUE",
-        "email": "um********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Capries Ryn",
-        "email": "hy*****@g********",
-        "pref": 2
-      }
-    ]
+    "date": "12-Oct-25",
+    "artists": []
   },
   {
     "day": 70,
-    "date": "12-Oct-24",
-    "artists": [
-      {
-        "name": "Mandorie_Art",
-        "email": "nu*****************@g********",
-        "pref": 1
-      },
-      {
-        "name": "qronpyro ",
-        "email": "qi*******@g********",
-        "pref": 2
-      },
-      {
-        "name": "Chromic7sky",
-        "email": "ch*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "11-Oct-25",
+    "artists": []
   },
   {
     "day": 71,
-    "date": "11-Oct-24",
-    "artists": [
-      {
-        "name": "Nish",
-        "email": "m.**************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Clio",
-        "email": "cl*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "BunnyLISA",
-        "email": "bu**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "10-Oct-25",
+    "artists": []
   },
   {
     "day": 72,
-    "date": "10-Oct-24",
-    "artists": [
-      {
-        "name": "Lady Miminutty",
-        "email": "Mi*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Foxkunkun",
-        "email": "sa*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "NickStick23",
-        "email": "ni********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "09-Oct-25",
+    "artists": []
   },
   {
     "day": 73,
-    "date": "09-Oct-24",
-    "artists": [
-      {
-        "name": "namie/\u30ca\u30df",
-        "email": "pw*****@g********",
-        "pref": 1
-      },
-      {
-        "name": "Midnight Doodle",
-        "email": "mi**************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Maymorin",
-        "email": "ch*********@l*******",
-        "pref": 1
-      }
-    ]
+    "date": "08-Oct-25",
+    "artists": []
   },
   {
     "day": 74,
-    "date": "08-Oct-24",
-    "artists": [
-      {
-        "name": "\u93e1\u5b50",
-        "email": "wo*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "ALYCESON TV",
-        "email": "ki*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "B.r",
-        "email": "ka*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "07-Oct-25",
+    "artists": []
   },
   {
     "day": 75,
-    "date": "07-Oct-24",
-    "artists": [
-      {
-        "name": "Creepyllama",
-        "email": "cl******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Hanabelink",
-        "email": "ha********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Moyah",
-        "email": "mo*************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "06-Oct-25",
+    "artists": []
   },
   {
     "day": 76,
-    "date": "06-Oct-24",
-    "artists": [
-      {
-        "name": "miki",
-        "email": "eh*******@g********",
-        "pref": 2
-      },
-      {
-        "name": "Aver",
-        "email": "av************@g********",
-        "pref": 2
-      },
-      {
-        "name": "Cryssalia",
-        "email": "li********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "05-Oct-25",
+    "artists": []
   },
   {
     "day": 77,
-    "date": "05-Oct-24",
-    "artists": [
-      {
-        "name": "Hiyoki Mizuki",
-        "email": "hi**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "biscuitocraker",
-        "email": "Jy******@g********",
-        "pref": 1
-      },
-      {
-        "name": "FranAmbush",
-        "email": "mh**********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "04-Oct-25",
+    "artists": []
   },
   {
     "day": 78,
-    "date": "04-Oct-24",
-    "artists": [
-      {
-        "name": "Catherine Chua",
-        "email": "ca*************@h*********",
-        "pref": 1
-      },
-      {
-        "name": "ibahibut",
-        "email": "ad***********@y********",
-        "pref": 1
-      },
-      {
-        "name": "estheryu",
-        "email": "es*******@y********",
-        "pref": 1
-      }
-    ]
+    "date": "03-Oct-25",
+    "artists": []
   },
   {
     "day": 79,
-    "date": "03-Oct-24",
-    "artists": [
-      {
-        "name": "Kamilisme",
-        "email": "ka******************@g********",
-        "pref": 1
-      },
-      {
-        "name": "qc_dragon",
-        "email": "qc******@g********",
-        "pref": 1
-      },
-      {
-        "name": "RiokaChan XD",
-        "email": "ri*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "02-Oct-25",
+    "artists": []
   },
   {
     "day": 80,
-    "date": "02-Oct-24",
-    "artists": [
-      {
-        "name": "airhead",
-        "email": "na*************@g********",
-        "pref": 2
-      },
-      {
-        "name": "\u30a8\u30eb\uff11\uff19\uff19\uff15",
-        "email": "ce**********************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Scarlet / rreverieeer",
-        "email": "ma*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "01-Oct-25",
+    "artists": []
   },
   {
     "day": 81,
-    "date": "01-Oct-24",
-    "artists": [
-      {
-        "name": "Zero Yee",
-        "email": "kc*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Hor Kit",
-        "email": "or******@g********",
-        "pref": 1
-      },
-      {
-        "name": "AmieeSha",
-        "email": "nu************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "30-Sep-25",
+    "artists": []
   },
   {
     "day": 82,
-    "date": "30-Sep-24",
-    "artists": [
-      {
-        "name": "CikJelly",
-        "email": "ci********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Neenas.nyem",
-        "email": "ne*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "KuneKuro",
-        "email": "lo***********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "29-Sep-25",
+    "artists": []
   },
   {
     "day": 83,
-    "date": "29-Sep-24",
-    "artists": [
-      {
-        "name": "KaT",
-        "email": "ir**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Ron",
-        "email": "sm*********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Akino ",
-        "email": "li**************@g********",
-        "pref": 2
-      }
-    ]
+    "date": "28-Sep-25",
+    "artists": []
   },
   {
     "day": 84,
-    "date": "28-Sep-24",
-    "artists": [
-      {
-        "name": "Aimi_Ketam",
-        "email": "si*************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Peac.hy97",
-        "email": "nu************@g********",
-        "pref": 1
-      },
-      {
-        "name": "@Kuhlnotes",
-        "email": "jo*****@l*******",
-        "pref": 2
-      }
-    ]
+    "date": "27-Sep-25",
+    "artists": []
   },
   {
     "day": 85,
-    "date": "27-Sep-24",
-    "artists": [
-      {
-        "name": "aijaishannmom_ / iamkaija",
-        "email": "ia********@g********",
-        "pref": 1
-      },
-      {
-        "name": "flying_qiqiii",
-        "email": "jo********@g********",
-        "pref": 2
-      },
-      {
-        "name": "Kuro Alice",
-        "email": "ae************@g********",
-        "pref": 2
-      }
-    ]
+    "date": "26-Sep-25",
+    "artists": []
   },
   {
     "day": 86,
-    "date": "26-Sep-24",
-    "artists": [
-      {
-        "name": "ALthur",
-        "email": "fn******@g********",
-        "pref": 1
-      },
-      {
-        "name": "NIEKAORI",
-        "email": "ni******@g********",
-        "pref": 1
-      },
-      {
-        "name": "Violetrinity",
-        "email": "vi**************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "25-Sep-25",
+    "artists": []
   },
   {
     "day": 87,
-    "date": "25-Sep-24",
-    "artists": [
-      {
-        "name": "GURA",
-        "email": "ch********@g********",
-        "pref": 1
-      },
-      {
-        "name": "SpaceOni",
-        "email": "sp***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "SynzMayu",
-        "email": "rt****@g********",
-        "pref": 1
-      }
-    ]
+    "date": "24-Sep-25",
+    "artists": []
   },
   {
     "day": 88,
-    "date": "24-Sep-24",
-    "artists": [
-      {
-        "name": "jrpencil",
-        "email": "jr********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Alson",
-        "email": "al**************@l*******",
-        "pref": 2
-      },
-      {
-        "name": "YUSARIE MEAT",
-        "email": "yu*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "23-Sep-25",
+    "artists": []
   },
   {
     "day": 89,
-    "date": "23-Sep-24",
-    "artists": [
-      {
-        "name": "\u6668\u5e0c\u5c0f\u65e5\u8a18",
-        "email": "me*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Zilan Chilan",
-        "email": "ra*********@g********",
-        "pref": 2
-      },
-      {
-        "name": "HarunaIchihara",
-        "email": "ha*********************@g********",
-        "pref": 2
-      }
-    ]
+    "date": "22-Sep-25",
+    "artists": []
   },
   {
     "day": 90,
-    "date": "22-Sep-24",
-    "artists": [
-      {
-        "name": "Kumoko",
-        "email": "ku********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Emeli\u827e\u7c73\u4e3d",
-        "email": "em*********@g********",
-        "pref": 2
-      },
-      {
-        "name": "dendalion_ch",
-        "email": "de*********@g********",
-        "pref": 1
-      }
-    ]
+    "date": "21-Sep-25",
+    "artists": []
   },
   {
     "day": 91,
-    "date": "21-Sep-24",
-    "artists": [
-      {
-        "name": "Mita ",
-        "email": "mi****************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Ninjalight",
-        "email": "ju************@g********",
-        "pref": 1
-      },
-      {
-        "name": "MilkyWay_Galaxy",
-        "email": "ch******************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "20-Sep-25",
+    "artists": []
   },
   {
     "day": 92,
-    "date": "20-Sep-24",
-    "artists": [
-      {
-        "name": "Zehartz",
-        "email": "ze***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Xibaken",
-        "email": "tt************@g********",
-        "pref": 1
-      },
-      {
-        "name": "SyueZ",
-        "email": "sy*************@g********",
-        "pref": 2
-      }
-    ]
+    "date": "19-Sep-25",
+    "artists": []
   },
   {
     "day": 93,
-    "date": "19-Sep-24",
-    "artists": [
-      {
-        "name": "\u5b89\u795eanshen",
-        "email": "an**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Sheryu",
-        "email": "sh*********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Dalia",
-        "email": "wa************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "18-Sep-25",
+    "artists": []
   },
   {
     "day": 94,
-    "date": "18-Sep-24",
-    "artists": [
-      {
-        "name": "rai_rahim",
-        "email": "ct******@g********",
-        "pref": 1
-      },
-      {
-        "name": "March3Rain \u4e09\u6708\u96e8\u541b",
-        "email": "la******@g********",
-        "pref": 1
-      },
-      {
-        "name": "reno.art7",
-        "email": "wh****@g********",
-        "pref": 2
-      }
-    ]
+    "date": "17-Sep-25",
+    "artists": []
   },
   {
     "day": 95,
-    "date": "17-Sep-24",
-    "artists": [
-      {
-        "name": "Scull",
-        "email": "ma************@g********",
-        "pref": 1
-      },
-      {
-        "name": "Capybars",
-        "email": "ca********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Risa Arts",
-        "email": "ro*********@y********",
-        "pref": 2
-      }
-    ]
+    "date": "16-Sep-25",
+    "artists": []
   },
   {
     "day": 96,
-    "date": "16-Sep-24",
-    "artists": [
-      {
-        "name": "GM",
-        "email": "fa******@g********",
-        "pref": 1
-      },
-      {
-        "name": "\u5948\u6708",
-        "email": "fl*******@g********",
-        "pref": 1
-      },
-      {
-        "name": "OREN_JZHE",
-        "email": "12************@g********",
-        "pref": 1
-      }
-    ]
+    "date": "15-Sep-25",
+    "artists": []
   },
   {
     "day": 97,
-    "date": "15-Sep-24",
-    "artists": [
-      {
-        "name": "Katsudonno",
-        "email": "da*******@h**********",
-        "pref": 1
-      },
-      {
-        "name": "Nayupan",
-        "email": "na*******@g********",
-        "pref": 2
-      },
-      {
-        "name": "yanahleee",
-        "email": "ya*******@g********",
-        "pref": 2
-      }
-    ]
+    "date": "14-Sep-25",
+    "artists": []
   },
   {
     "day": 98,
-    "date": "14-Sep-24",
-    "artists": [
-      {
-        "name": "Illy.Art",
-        "email": "si**********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Qiiro",
-        "email": "ri************@g********",
-        "pref": 2
-      },
-      {
-        "name": "Tata SnFlwr",
-        "email": "ha************@g********",
-        "pref": 2
-      }
-    ]
+    "date": "13-Sep-25",
+    "artists": []
   },
   {
     "day": 99,
-    "date": "13-Sep-24",
-    "artists": [
-      {
-        "name": "Mirro Ding",
-        "email": "mi******@g********",
-        "pref": 2
-      },
-      {
-        "name": "Guenius",
-        "email": "ni***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "ARIMARUN",
-        "email": "ar********@g********",
-        "pref": 2
-      }
-    ]
+    "date": "12-Sep-25",
+    "artists": []
   },
   {
     "day": 100,
-    "date": "12-Sep-24",
-    "artists": [
-      {
-        "name": "KoyLiang",
-        "email": "ah********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Lazendar",
-        "email": "la***********@g********",
-        "pref": 1
-      },
-      {
-        "name": "Mayying",
-        "email": "ma*******@h**********",
-        "pref": 1
-      }
-    ]
+    "date": "11-Sep-25",
+    "artists": []
   }
 ]
