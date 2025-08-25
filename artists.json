@@ -54,6 +54,11 @@
         "name": "Tsuki",
         "email": "ez************@g********",
         "pref": 1
+      },
+      {
+        "name": "isacchili",
+        "email": "il************@g********",
+        "pref": 1
       }
     ]
   },
@@ -143,6 +148,16 @@
       {
         "name": "Fourone Wong",
         "email": "si**********@h**********",
+        "pref": 1
+      },
+      {
+        "name": "HoKeki",
+        "email": "ke*****@g********",
+        "pref": 1
+      },
+      {
+        "name": "dinokano",
+        "email": "di***********@g********",
         "pref": 1
       }
     ]
@@ -808,6 +823,11 @@
         "name": "Eisner",
         "email": "pa******@g********",
         "pref": 1
+      },
+      {
+        "name": "FabuuFox",
+        "email": "fa*******@g********",
+        "pref": 1
       }
     ]
   },
@@ -984,6 +1004,11 @@
         "name": "MsBubblebun",
         "email": "ms**********@g********",
         "pref": 1
+      },
+      {
+        "name": "Tree Witch",
+        "email": "ya***********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1049,6 +1074,11 @@
         "name": "ruffey_fleury",
         "email": "ru********@g********",
         "pref": 2
+      },
+      {
+        "name": "Syue_ArtZ studio",
+        "email": "sy*************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1097,7 +1127,13 @@
   {
     "day": 62,
     "date": "19-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "YuruArt",
+        "email": "yu***********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 63,
@@ -1107,6 +1143,11 @@
         "name": "Mixuen",
         "email": "mi*********@g********",
         "pref": 2
+      },
+      {
+        "name": "\u94f6\u72f8yenglee",
+        "email": "re******@l*******",
+        "pref": 1
       }
     ]
   },
@@ -1139,6 +1180,11 @@
         "name": "Ne Po Ne",
         "email": "ki*********@g********",
         "pref": 1
+      },
+      {
+        "name": "iris",
+        "email": "ir********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1337,6 +1383,11 @@
         "name": "qc_dragon",
         "email": "qc******@g********",
         "pref": 1
+      },
+      {
+        "name": "Grind",
+        "email": "ev********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1534,7 +1585,13 @@
   {
     "day": 98,
     "date": "13-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Estheryu",
+        "email": "es*******@y********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 99,
