@@ -23,7 +23,18 @@
   {
     "day": 2,
     "date": "18-Dec-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Sandysoon610",
+        "email": "sa**********@g********",
+        "pref": 1
+      },
+      {
+        "name": "CaelousDall",
+        "email": "my********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 3,
@@ -145,7 +156,13 @@
   {
     "day": 11,
     "date": "09-Dec-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "\u661f\u732bowo",
+        "email": "ji*********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 12,
@@ -244,6 +261,11 @@
       {
         "name": "akito jin",
         "email": "to*************@g********",
+        "pref": 1
+      },
+      {
+        "name": "Yuinedraws",
+        "email": "yu********@g********",
         "pref": 1
       }
     ]
@@ -430,6 +452,11 @@
         "name": "KuroArt",
         "email": "mc********@g********",
         "pref": 1
+      },
+      {
+        "name": "WanTan",
+        "email": "wa********@h**********",
+        "pref": 1
       }
     ]
   },
@@ -535,6 +562,11 @@
       {
         "name": "Hiyoki Mizuki",
         "email": "hi**********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Saibrayyear",
+        "email": "sa*************@g********",
         "pref": 1
       }
     ]
@@ -828,7 +860,13 @@
   {
     "day": 55,
     "date": "26-Oct-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "White Coral\u767d\u73ca\u745a",
+        "email": "co************@g********",
+        "pref": 2
+      }
+    ]
   },
   {
     "day": 56,
@@ -879,6 +917,16 @@
       {
         "name": "KetGetCat",
         "email": "la******@g********",
+        "pref": 1
+      },
+      {
+        "name": "kanatia",
+        "email": "pu*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "MintPudina",
+        "email": "mi*********@g********",
         "pref": 1
       }
     ]
