@@ -705,6 +705,11 @@
         "name": "NotsoGOAT",
         "email": "no***********@g********",
         "pref": 1
+      },
+      {
+        "name": "karmadino",
+        "email": "li**************@g********",
+        "pref": 1
       }
     ]
   },
@@ -847,6 +852,11 @@
         "name": "PV_966_Art",
         "email": "pe***********@g********",
         "pref": 1
+      },
+      {
+        "name": "Ciyuneh_Lipas",
+        "email": "ma********@y********",
+        "pref": 1
       }
     ]
   },
@@ -863,6 +873,11 @@
         "name": "FabuuFox",
         "email": "fa*******@g********",
         "pref": 1
+      },
+      {
+        "name": "Arzalia",
+        "email": "ar********@g********",
+        "pref": 2
       }
     ]
   },
@@ -879,6 +894,11 @@
         "name": "ami_shun",
         "email": "sh*********************@g********",
         "pref": 1
+      },
+      {
+        "name": "adii",
+        "email": "ad*************@g********",
+        "pref": 2
       }
     ]
   },
@@ -915,6 +935,11 @@
       {
         "name": "VIOLETRINTY",
         "email": "vi**************@g********",
+        "pref": 1
+      },
+      {
+        "name": "Himeko",
+        "email": "sa*************@g********",
         "pref": 1
       }
     ]
@@ -1032,6 +1057,11 @@
         "name": "MaiaBiri",
         "email": "ka*********@g********",
         "pref": 1
+      },
+      {
+        "name": "PotatoCamy",
+        "email": "ar**********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1075,6 +1105,11 @@
         "name": "Tree Witch",
         "email": "ya***********@g********",
         "pref": 1
+      },
+      {
+        "name": "PotatoCamy",
+        "email": "ca**********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1086,6 +1121,11 @@
         "name": "White Coral\u767d\u73ca\u745a",
         "email": "co************@g********",
         "pref": 2
+      },
+      {
+        "name": "DimensioN",
+        "email": "go**********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1229,6 +1269,11 @@
       {
         "name": "CreeperRudy",
         "email": "ch*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "Eddie Queen Que",
+        "email": "qi**************@g********",
         "pref": 1
       }
     ]
@@ -1518,7 +1563,13 @@
   {
     "day": 82,
     "date": "29-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "KuneKuro",
+        "email": "ku******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 83,
@@ -1559,6 +1610,11 @@
       {
         "name": "ChanPeii",
         "email": "ch*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "nakahalin",
+        "email": "na*******@g********",
         "pref": 1
       }
     ]
