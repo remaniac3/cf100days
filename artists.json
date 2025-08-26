@@ -1314,6 +1314,11 @@
         "name": "\u94f6\u72f8yenglee",
         "email": "re******@l*******",
         "pref": 1
+      },
+      {
+        "name": "DingDingJJ",
+        "email": "to*************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1577,6 +1582,11 @@
         "name": "Imi Nabilah",
         "email": "sy***************@g********",
         "pref": 1
+      },
+      {
+        "name": "rakugaqis",
+        "email": "qi*****@g********",
+        "pref": 1
       }
     ]
   },
@@ -1736,6 +1746,11 @@
         "name": "nakahalin",
         "email": "na*******@g********",
         "pref": 1
+      },
+      {
+        "name": "hwael",
+        "email": "ca*************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1865,7 +1880,13 @@
   {
     "day": 94,
     "date": "17-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "FreezingFeathers",
+        "email": "Fr***************@g********",
+        "pref": 2
+      }
+    ]
   },
   {
     "day": 95,
