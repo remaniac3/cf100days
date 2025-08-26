@@ -1463,6 +1463,16 @@
         "name": "Midnight Doodle",
         "email": "mi**************@g********",
         "pref": 1
+      },
+      {
+        "name": "azzamyani97",
+        "email": "am*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "doodarii",
+        "email": "ar*********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1505,6 +1515,11 @@
       {
         "name": "Silly",
         "email": "mi********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Lyferie",
+        "email": "ly********@g********",
         "pref": 1
       }
     ]
@@ -1687,6 +1702,11 @@
         "name": "NIEKAORI",
         "email": "ni******@g********",
         "pref": 1
+      },
+      {
+        "name": "Nanaz",
+        "email": "tu****************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1757,7 +1777,13 @@
   {
     "day": 91,
     "date": "20-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Sean Lee",
+        "email": "co************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 92,
