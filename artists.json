@@ -1677,6 +1677,11 @@
         "name": "Syir Jer",
         "email": "ni*********@g********",
         "pref": 1
+      },
+      {
+        "name": "helledraws",
+        "email": "he********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1923,7 +1928,13 @@
   {
     "day": 97,
     "date": "14-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "NULL",
+        "email": "nu************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 98,
