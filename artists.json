@@ -1083,6 +1083,11 @@
         "name": "aimi_ketam",
         "email": "si*************@g********",
         "pref": 1
+      },
+      {
+        "name": "Jackes",
+        "email": "ja**********@h**********",
+        "pref": 1
       }
     ]
   },
@@ -1278,6 +1283,11 @@
         "name": "RoKu",
         "email": "ro*********@g********",
         "pref": 1
+      },
+      {
+        "name": "Hermione Jaeger ",
+        "email": "aq*********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1388,6 +1398,11 @@
       {
         "name": "soniyamoka",
         "email": "so*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "tempekultus ",
+        "email": "am*************@g********",
         "pref": 1
       }
     ]
@@ -1788,12 +1803,34 @@
   {
     "day": 92,
     "date": "19-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "Yuiee",
+        "email": "yy*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "Etherea",
+        "email": "an************@g********",
+        "pref": 1
+      },
+      {
+        "name": "Sunflower",
+        "email": "ch********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 93,
     "date": "18-Sep-25",
-    "artists": []
+    "artists": [
+      {
+        "name": "azai",
+        "email": "ec**********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 94,
