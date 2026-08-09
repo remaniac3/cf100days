@@ -8,6 +8,21 @@
         --btn_archive_hover_opacity: 0.6;
     }
 
+    .btn-archives-2025 {
+        background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_static_opacity)), rgba(237, 23, 79, var(--btn_archive_static_opacity))),
+            url(/archives/2025/img/banner_home.webp);
+        background-position: 53% 28%;
+        background-size: auto;
+    }
+
+    .btn-archives-2025:hover{
+        background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_hover_opacity)), rgba(237, 23, 79, var(--btn_archive_hover_opacity))),
+            url(/archives/2025/img/banner_home.webp);
+        background-position: 53% 28%;
+        background-size: auto;
+        color: #FFFFFF;
+    }
+
     .btn-archives-2024 {
         background: linear-gradient(rgba(237, 23, 79, var(--btn_archive_static_opacity)), rgba(237, 23, 79, var(--btn_archive_static_opacity))),
             url(/archives/2024/img/banner_home.webp);
