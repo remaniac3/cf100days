@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #body-bg {
-    background-color: #fff1f6;
+    background-color: rgba(246, 255, 254, 1);
 }
 
 
@@ -170,7 +170,18 @@ h1, h2, h3, h4, h5, h6 {
         left: 0;
         right: 0;
         height: 50%; /* Adjust height of gradient */
-        background: linear-gradient(to top, rgba(255, 241, 246, 1), transparent);
+        background: linear-gradient(to top, rgba(246, 255, 254, 1), transparent);
+        pointer-events: none; /* Allows clicks to pass through */
+    }
+
+    .carousel-item::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 50%; /* Adjust height of gradient */
+        background: linear-gradient(to top, rgba(246, 255, 254, 1), transparent);
         pointer-events: none; /* Allows clicks to pass through */
     }
 
