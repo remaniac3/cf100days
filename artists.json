@@ -910,6 +910,11 @@
         "name": "Hiyoki Mizuki",
         "email": "hi**********@g********",
         "pref": 1
+      },
+      {
+        "name": "Penny",
+        "email": "pe********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1052,6 +1057,11 @@
         "name": "Draoon717",
         "email": "sh***********@g********",
         "pref": 1
+      },
+      {
+        "name": "Ginnie\u5929\u6dd3\u5152",
+        "email": "yu********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1068,6 +1078,11 @@
         "name": "kanatia",
         "email": "ka*********@g********",
         "pref": 2
+      },
+      {
+        "name": "Fourone SY",
+        "email": "si**********@h**********",
+        "pref": 1
       }
     ]
   },
@@ -1200,6 +1215,11 @@
         "name": "Chanpeii",
         "email": "ch*******@g********",
         "pref": 1
+      },
+      {
+        "name": "Aloeveraeater",
+        "email": "ra*************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1268,6 +1288,11 @@
       {
         "name": "yung kang",
         "email": "we**********@g********",
+        "pref": 1
+      },
+      {
+        "name": "MIYUKICHOOO",
+        "email": "HA********@H**********",
         "pref": 1
       }
     ]
@@ -1427,6 +1452,16 @@
         "name": "Joonopi",
         "email": "jo*******@g********",
         "pref": 1
+      },
+      {
+        "name": "YAN\u955c\u732b",
+        "email": "xi**********@h**********",
+        "pref": 1
+      },
+      {
+        "name": "ACWY",
+        "email": "ch**************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1437,6 +1472,16 @@
       {
         "name": "Jean_0v0",
         "email": "je********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Kore",
+        "email": "20************@g********",
+        "pref": 1
+      },
+      {
+        "name": "NotYuu",
+        "email": "dm*********@g********",
         "pref": 1
       }
     ]
@@ -1610,6 +1655,11 @@
         "name": "yit_julia",
         "email": "yi******@g********",
         "pref": 1
+      },
+      {
+        "name": "Toracchi",
+        "email": "au*********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1625,6 +1675,11 @@
       {
         "name": "ACWC",
         "email": "sa**********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Wang Xiong",
+        "email": "xi*******@g********",
         "pref": 1
       }
     ]
@@ -1695,6 +1750,11 @@
         "name": "Kagaye \u955c\u4e5f",
         "email": "ta*********@g********",
         "pref": 2
+      },
+      {
+        "name": "Shin",
+        "email": "ze******@g********",
+        "pref": 1
       }
     ]
   },
@@ -1739,7 +1799,13 @@
   {
     "day": 95,
     "date": "15-Sep-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "Katsudonno",
+        "email": "da*******@h**********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 96,
