@@ -243,6 +243,11 @@
         "name": "peppertarii",
         "email": "pe***********@g********",
         "pref": 2
+      },
+      {
+        "name": "LaLielaMignon",
+        "email": "kk*************@g********",
+        "pref": 1
       }
     ]
   },
@@ -658,6 +663,11 @@
         "name": "Kuro",
         "email": "mc********@g********",
         "pref": 1
+      },
+      {
+        "name": "Emeli\u827e\u7c73\u9e97",
+        "email": "em*********@g********",
+        "pref": 2
       }
     ]
   },
@@ -673,6 +683,11 @@
       {
         "name": "reno.art7",
         "email": "wh****@g********",
+        "pref": 1
+      },
+      {
+        "name": "Kuro Ookami",
+        "email": "ku**************@g********",
         "pref": 1
       }
     ]
@@ -832,6 +847,11 @@
         "name": "Zilan Chilan",
         "email": "ra*********@g********",
         "pref": 2
+      },
+      {
+        "name": "pizayuki",
+        "email": "xi********@g********",
+        "pref": 2
       }
     ]
   },
@@ -947,6 +967,11 @@
       {
         "name": "chikadainty",
         "email": "ch*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Louie",
+        "email": "ki********@y********",
         "pref": 1
       }
     ]
@@ -1112,7 +1137,18 @@
   {
     "day": 56,
     "date": "24-Oct-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "TaiGaO",
+        "email": "ta*********@h**********",
+        "pref": 1
+      },
+      {
+        "name": "qc_dragon",
+        "email": "qc******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 57,
@@ -1142,6 +1178,11 @@
       {
         "name": "Mimo Illustrations",
         "email": "mi********************@g********",
+        "pref": 1
+      },
+      {
+        "name": "eepycatshark",
+        "email": "ee**********@g********",
         "pref": 1
       }
     ]
@@ -1202,7 +1243,13 @@
   {
     "day": 62,
     "date": "18-Oct-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "NmHao",
+        "email": "mi*********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 63,
@@ -1526,7 +1573,13 @@
   {
     "day": 82,
     "date": "28-Sep-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "xxibalee",
+        "email": "xx**********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 83,
