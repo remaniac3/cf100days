@@ -1314,6 +1314,11 @@
         "name": "MIYUKICHOOO",
         "email": "HA********@H**********",
         "pref": 1
+      },
+      {
+        "name": "DihaDoodles",
+        "email": "ma***********@o**********",
+        "pref": 1
       }
     ]
   },
@@ -1609,6 +1614,11 @@
         "name": "CCwahaha",
         "email": "ca*************@h**********",
         "pref": 1
+      },
+      {
+        "name": "almondmilk/aya",
+        "email": "al**************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1661,6 +1671,11 @@
       {
         "name": "Zz",
         "email": "02*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "Seiko Kai.",
+        "email": "fa********@g********",
         "pref": 1
       }
     ]
@@ -1764,13 +1779,24 @@
         "name": "iluluminous ",
         "email": "hu*********@y********",
         "pref": 2
+      },
+      {
+        "name": "\u963f\u5e9f",
+        "email": "co*********@g********",
+        "pref": 1
       }
     ]
   },
   {
     "day": 89,
     "date": "21-Sep-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "CandyRainyoo ",
+        "email": "ca**********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 90,
