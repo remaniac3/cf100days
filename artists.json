@@ -45,7 +45,13 @@
   {
     "day": 4,
     "date": "15-Dec-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "Kai'E",
+        "email": "ka******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 5,
@@ -102,6 +108,11 @@
         "name": "ARICS",
         "email": "wa********@g********",
         "pref": 2
+      },
+      {
+        "name": "Hana",
+        "email": "ha**********@g********",
+        "pref": 2
       }
     ]
   },
@@ -155,6 +166,11 @@
         "name": "\u7cbe\u7075\u963f\u59e8(Aunty Seirei)",
         "email": "hs******@g********",
         "pref": 1
+      },
+      {
+        "name": "peppertarii",
+        "email": "pe***********@g********",
+        "pref": 2
       }
     ]
   },
@@ -219,6 +235,11 @@
         "name": "marcus tee",
         "email": "ma**********@g********",
         "pref": 1
+      },
+      {
+        "name": "Egg Chan",
+        "email": "zi***********@g********",
+        "pref": 2
       }
     ]
   },
@@ -372,6 +393,11 @@
         "name": "Ritsu",
         "email": "mr**********@g********",
         "pref": 1
+      },
+      {
+        "name": "i.znya_",
+        "email": "i.*******@g********",
+        "pref": 2
       }
     ]
   },
@@ -394,6 +420,11 @@
         "name": "PT1603",
         "email": "ho*****@g********",
         "pref": 1
+      },
+      {
+        "name": "@aijaishannmom_",
+        "email": "ia********@g********",
+        "pref": 2
       }
     ]
   },
@@ -410,13 +441,24 @@
         "name": "JooIng Art",
         "email": "jo********@g********",
         "pref": 1
+      },
+      {
+        "name": "fabebulousart",
+        "email": "fa********@g********",
+        "pref": 2
       }
     ]
   },
   {
     "day": 29,
     "date": "20-Nov-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "Rei Hana",
+        "email": "ya********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 30,
@@ -453,7 +495,13 @@
   {
     "day": 32,
     "date": "17-Nov-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "A1Z4 x AnaRawrsha",
+        "email": "a1*******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 33,
@@ -463,12 +511,24 @@
   {
     "day": 34,
     "date": "15-Nov-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "\u30af\u30ed\u306b\u3083\u3093",
+        "email": "mu************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 35,
     "date": "14-Nov-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "Ayman Adny",
+        "email": "ay********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 36,
@@ -690,7 +750,13 @@
   {
     "day": 51,
     "date": "29-Oct-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "hira",
+        "email": "pa******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 52,
@@ -937,6 +1003,11 @@
         "name": "aaerastudio",
         "email": "aa*********@g********",
         "pref": 1
+      },
+      {
+        "name": "tomatopicker",
+        "email": "ro***********@g********",
+        "pref": 1
       }
     ]
   },
@@ -997,7 +1068,13 @@
   {
     "day": 75,
     "date": "05-Oct-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "IRUSTRATIONS",
+        "email": "ir**************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 76,
@@ -1044,6 +1121,11 @@
         "name": "yE",
         "email": "yi***********@g********",
         "pref": 2
+      },
+      {
+        "name": "qin",
+        "email": "ch**************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1123,7 +1205,13 @@
   {
     "day": 91,
     "date": "19-Sep-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "Arekoleo",
+        "email": "ar******@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 92,
@@ -1186,6 +1274,11 @@
         "name": "@Dono.Neee",
         "email": "ew***********@g********",
         "pref": 1
+      },
+      {
+        "name": "KoyLiang",
+        "email": "ah********@g********",
+        "pref": 2
       }
     ]
   },
