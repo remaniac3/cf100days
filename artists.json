@@ -280,6 +280,11 @@
         "name": "Leonard Loh",
         "email": "le*********@g********",
         "pref": 2
+      },
+      {
+        "name": "Wei",
+        "email": "ti********@g********",
+        "pref": 2
       }
     ]
   },
@@ -590,6 +595,11 @@
         "name": "scarlettic",
         "email": "sc************@g********",
         "pref": 1
+      },
+      {
+        "name": "nabinabihanabi",
+        "email": "na**************@g********",
+        "pref": 1
       }
     ]
   },
@@ -712,6 +722,16 @@
         "name": "Aimi_Ketam",
         "email": "ka*****************@g********",
         "pref": 1
+      },
+      {
+        "name": "Jyyin",
+        "email": "ji********@g********",
+        "pref": 1
+      },
+      {
+        "name": "FabuuFox",
+        "email": "fa*******@g********",
+        "pref": 1
       }
     ]
   },
@@ -728,6 +748,11 @@
         "name": "NyuPenyu",
         "email": "ny*********@g********",
         "pref": 1
+      },
+      {
+        "name": "penachipah",
+        "email": "pe********@g********",
+        "pref": 2
       }
     ]
   },
@@ -880,6 +905,11 @@
       {
         "name": "Suzu",
         "email": "su*******@g********",
+        "pref": 1
+      },
+      {
+        "name": "\u5947\u8bfa\u5927\u9b54\u738b",
+        "email": "mi*******@g********",
         "pref": 1
       }
     ]
@@ -1103,7 +1133,18 @@
   {
     "day": 58,
     "date": "22-Oct-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "Alexxiyaa",
+        "email": "al********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Mimo Illustrations",
+        "email": "mi********************@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 59,
@@ -1420,6 +1461,11 @@
         "name": "KiraNoArte",
         "email": "sy************@g********",
         "pref": 1
+      },
+      {
+        "name": "Hyraxisz Tsubasa",
+        "email": "ia******@h**********",
+        "pref": 2
       }
     ]
   },
@@ -1569,6 +1615,11 @@
       {
         "name": "Itzknuckle",
         "email": "lo**********@g********",
+        "pref": 2
+      },
+      {
+        "name": "Kagaye \u955c\u4e5f",
+        "email": "ta*********@g********",
         "pref": 2
       }
     ]
