@@ -1147,6 +1147,11 @@
         "name": "qc_dragon",
         "email": "qc******@g********",
         "pref": 1
+      },
+      {
+        "name": "ZeeHan",
+        "email": "ha********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1247,6 +1252,11 @@
       {
         "name": "NmHao",
         "email": "mi*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Violetrinity",
+        "email": "vi**************@g********",
         "pref": 1
       }
     ]
@@ -1606,7 +1616,18 @@
   {
     "day": 85,
     "date": "25-Sep-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "elsieyves",
+        "email": "el*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "ACWC",
+        "email": "sa**********@g********",
+        "pref": 1
+      }
+    ]
   },
   {
     "day": 86,
