@@ -1545,6 +1545,11 @@
         "name": "Keru-The-Green",
         "email": "re**********@g********",
         "pref": 1
+      },
+      {
+        "name": "Jun",
+        "email": "us*********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1560,6 +1565,11 @@
       {
         "name": "Sai.Lynx_",
         "email": "bl************@g********",
+        "pref": 2
+      },
+      {
+        "name": "Yowamushi",
+        "email": "fl************@g********",
         "pref": 2
       }
     ]
@@ -1619,6 +1629,11 @@
         "name": "almondmilk/aya",
         "email": "al**************@g********",
         "pref": 1
+      },
+      {
+        "name": "Kiera",
+        "email": "ki*******@y********",
+        "pref": 2
       }
     ]
   },
@@ -1677,6 +1692,11 @@
         "name": "Seiko Kai.",
         "email": "fa********@g********",
         "pref": 1
+      },
+      {
+        "name": "Teabreakk Arts",
+        "email": "te**************@g********",
+        "pref": 1
       }
     ]
   },
@@ -1687,6 +1707,16 @@
       {
         "name": "xxibalee",
         "email": "xx**********@g********",
+        "pref": 1
+      },
+      {
+        "name": "LEESHEEP",
+        "email": "le***********@g********",
+        "pref": 2
+      },
+      {
+        "name": "Himeko",
+        "email": "sa*************@g********",
         "pref": 1
       }
     ]
@@ -1699,6 +1729,16 @@
         "name": "Greymy",
         "email": "my***********@g********",
         "pref": 1
+      },
+      {
+        "name": "Mitu Atelier",
+        "email": "my********@g********",
+        "pref": 1
+      },
+      {
+        "name": "LittleAevisDo ",
+        "email": "ra********@g********",
+        "pref": 2
       }
     ]
   },
@@ -1741,6 +1781,16 @@
       {
         "name": "NIEKAORI",
         "email": "ni******@g********",
+        "pref": 1
+      },
+      {
+        "name": "JellySama",
+        "email": "ci********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Sinarrain ",
+        "email": "si*************@g********",
         "pref": 1
       }
     ]
@@ -1795,6 +1845,11 @@
         "name": "CandyRainyoo ",
         "email": "ca**********@g********",
         "pref": 1
+      },
+      {
+        "name": "C3asar Salad",
+        "email": "ch*********@g********",
+        "pref": 1
       }
     ]
   },
@@ -1843,13 +1898,39 @@
         "name": "\u9b5a\u3088SakanaYo",
         "email": "fi*******@g********",
         "pref": 1
+      },
+      {
+        "name": "Isshunan ",
+        "email": "sh**@i***********",
+        "pref": 2
+      },
+      {
+        "name": "Hanaberin",
+        "email": "my*********@g********",
+        "pref": 2
       }
     ]
   },
   {
     "day": 93,
     "date": "17-Sep-26",
-    "artists": []
+    "artists": [
+      {
+        "name": "Ettochiiart",
+        "email": "et*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "MintPudina",
+        "email": "in**************@g********",
+        "pref": 1
+      },
+      {
+        "name": "DaylightPrin",
+        "email": "li*********@g********",
+        "pref": 2
+      }
+    ]
   },
   {
     "day": 94,
@@ -1858,6 +1939,11 @@
       {
         "name": "haku68",
         "email": "de********@g********",
+        "pref": 2
+      },
+      {
+        "name": "colala_detzu",
+        "email": "ch*******@g********",
         "pref": 2
       }
     ]
@@ -1870,6 +1956,16 @@
         "name": "Katsudonno",
         "email": "da*******@h**********",
         "pref": 1
+      },
+      {
+        "name": "kaeru",
+        "email": "gy*******@g********",
+        "pref": 2
+      },
+      {
+        "name": "Snowkofi",
+        "email": "di****************@g********",
+        "pref": 2
       }
     ]
   },
@@ -1907,6 +2003,11 @@
       {
         "name": "Riza23",
         "email": "ri*********@g********",
+        "pref": 1
+      },
+      {
+        "name": "Yuinedraws",
+        "email": "yu********@g********",
         "pref": 1
       }
     ]
